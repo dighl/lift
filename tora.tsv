@@ -1,0 +1,527 @@
+# Wordlist
+
+# DATA
+ID	CONCEPT	DATECREATED	DATEMODIFIED	EN_GLOSS	FORM_IN_SOURCE	GUID	DOCULECT	LANGUAGE_IN_SOURCE	OID	ORDER	COUNTERPART	POS	PT_GLOSS	REFERENCE	SENSE_ID
+#
+264	Arara of the river Preto	2014-04-07T17:29:32Z	2014-04-20T20:13:49Z	Arara of the river Preto	urotetín	f053d364-dc47-4609-a190-d1699711f838	trz	trz	urotetin_f053d364-dc47-4609-a190-d1699711f838		urotetin		Arára do rio Preto		c03e7327-9e8e-421f-a33d-fd077b061e4f
+#
+68	Ariquém	2014-04-07T18:56:35Z	2014-04-20T20:12:03Z	Ariquém	ariké̩m	3add09a1-f0e1-419d-a60e-0f57ef3601ee	trz	trz	arike&apos;m_3add09a1-f0e1-419d-a60e-0f57ef3601ee		arike'm		Arikem		71557b86-4af5-4402-b321-2b774cb59f36
+#
+161	Branco river	2014-04-06T20:09:37Z	2014-04-20T19:39:22Z	Branco river	tu̥ariku̥p	8d8e5a97-a6ec-4235-8268-19e50815371a	trz	trz	tyarikyp_8d8e5a97-a6ec-4235-8268-19e50815371a		tyarikyp		rio Branco		fe198e0f-18a1-4c32-ba3b-df107ee02ecb
+#
+241	I	2014-04-28T14:07:09Z	2014-04-28T14:07:27Z	I	wazá	de309c91-027b-45bd-a49b-eaca5d9ba253	trz	en	waza_de309c91-027b-45bd-a49b-eaca5d9ba253		waza		eu		79d73491-bb2b-4b8b-91bb-8e19cfb2688a
+#
+180	Jaru	2014-04-07T17:28:30Z	2014-04-20T15:03:44Z	Jaru	yarú	a12f6bac-0989-40a1-8161-9c40554db4ff	trz	trz	jaru_a12f6bac-0989-40a1-8161-9c40554db4ff		jaru		Jaru		5fdc0a1a-5e85-4cf9-8cbe-5f224d3b4f56
+#
+162	Machado river	2014-04-06T20:10:37Z	2014-04-20T14:56:15Z	Machado river	apįsá	8dc7a93f-848c-4f23-978a-5ac2db3d1d16	trz	trz	api&apos;sa_8dc7a93f-848c-4f23-978a-5ac2db3d1d16		api'sa		rio Machado		aaa60ead-d1d2-44c2-a45f-2834f8ec5bcc
+#
+147	Madeira river	2014-04-06T20:07:04Z	2014-04-20T14:56:05Z	Madeira river	kayarí	812aefdb-f51b-4655-b85a-df3fd68a7401	trz	trz	kajari_812aefdb-f51b-4655-b85a-df3fd68a7401		kajari		rio Madeira		8389fc8d-ccaf-4ef4-8324-f40f4af6593d
+#
+253	Maicy river	2014-04-06T20:08:14Z	2014-04-20T14:55:53Z	Maicy river	turupiwaní	e5e15214-ddc3-4da5-957a-c1777337b0aa	trz	trz	turupiwani_e5e15214-ddc3-4da5-957a-c1777337b0aa		turupiwani		rio Maicy		aceab15b-a689-43d3-962b-e87dc87c7d0b
+#
+70	Maloca	2014-04-06T21:08:33Z	2014-04-20T14:55:32Z	Maloca	mawį	3e16ef10-35d1-42e5-bac7-403ebedbd082	trz	trz	mawi&apos;_3e16ef10-35d1-42e5-bac7-403ebedbd082		mawi'		Maloca		f7aff95c-bc2e-43e9-828d-6ba0a266aa98
+#
+217	Marmellos river	2014-04-06T20:54:53Z	2014-04-20T14:41:41Z	Marmellos river	piruarí	c992170c-97aa-4e5a-81a2-642c8bdae896	trz	trz	piruari_c992170c-97aa-4e5a-81a2-642c8bdae896		piruari		rio Marmellos		e6a56a2c-fff9-4e67-9346-b64d89964e00
+#
+154	Mundurucú	2014-04-07T18:57:44Z	2014-04-20T01:04:41Z	Mundurucú	kaubé̩k	89ca86a7-8387-4d61-b2cd-5784c5392283	trz	trz	kaube&apos;k_89ca86a7-8387-4d61-b2cd-5784c5392283		kaube'k		Munduruku		1472dfda-ccf6-418c-afd1-e1f193c24cc8
+#
+56	Mura	2014-04-07T17:26:52Z	2014-04-20T01:04:11Z	Mura	murá	2c643dbc-37b4-4f6f-bb5c-322ee7dc2797	trz	trz	mura_2c643dbc-37b4-4f6f-bb5c-322ee7dc2797		mura		Mura		1cd40654-71e3-4655-b5c8-5f30fa58fd3d
+#
+107	Múra-Pirahá of the river Branco	2014-04-07T17:24:44Z	2014-04-20T01:04:00Z	Múra-Pirahá of the river Branco	pĭriaha̍ī	5a2f4d48-2c0d-4213-ba82-bec548a636cc	trz	trz	piriahái_5a2f4d48-2c0d-4213-ba82-bec548a636cc		piriahái		Múra-Pirahá do rio Branco		2e4d5050-c460-4e69-b25d-2499e242b00d
+#
+57	Múra-Pirahá of the river Maicy	2014-04-07T17:10:28Z	2014-04-20T01:03:52Z	Múra-Pirahá of the river Maicy	yahahī́	2de96eeb-2589-490b-8fcd-85b6e55e8a6e	trz	trz	jahahi_2de96eeb-2589-490b-8fcd-85b6e55e8a6e		jahahi		Múra-Pirahá do rio Maicy		7223b6fc-9cde-4777-aa56-eb47c8866e33
+#
+166	Parintintin	2014-04-07T19:00:18Z	2014-04-20T00:53:57Z	Parintintin	toebehḗ	96231420-1063-42e8-a4c1-9f1829a2369c	trz	trz	toebehe_96231420-1063-42e8-a4c1-9f1829a2369c		toebehe		Parintintin		f897182e-1f85-40cb-9faa-9426da93664e
+#
+110	Rococo Toad	2014-04-08T14:35:37Z	2014-04-20T00:45:06Z	Rococo Toad	tururú	5bf14156-0e9e-40b2-8aa6-983028973527	trz	trz	tururu_5bf14156-0e9e-40b2-8aa6-983028973527		tururu		cururú		d52de390-69aa-495e-a6c9-b93e23e5ae07
+#
+95	Sirius	2014-04-06T17:05:04Z	2014-04-20T00:22:23Z	Sirius	wo̠ratá	4f622ff7-db10-4fab-84d5-37db11f3529d	trz	trz	worata_4f622ff7-db10-4fab-84d5-37db11f3529d		worata		Sirius		82cf3089-863f-4c7a-a1fa-4a058119c409
+#
+183	Tora	2014-04-07T18:50:13Z	2014-04-19T22:28:39Z	Tora	to̠rá	a4924add-ef8d-4d1f-9f70-9b80ab1223b6	trz	trz	tora_a4924add-ef8d-4d1f-9f70-9b80ab1223b6		tora		Torá		8333c165-6034-4c71-8890-a09b517c5a88
+#
+53	Urupá	2014-04-07T18:55:24Z	2014-04-19T22:23:34Z	Urupá	urupá	2958615a-f978-4aa8-abcb-50bbe77b61fd	trz	trz	urupa_2958615a-f978-4aa8-abcb-50bbe77b61fd		urupa		Urupá		0d8e59cf-7c14-4bb2-a761-5543f6ddafef
+246	Urupá	2014-04-07T18:52:39Z	2014-04-19T22:23:26Z	Urupá	te̩waké̩m	e24636db-7faa-4d09-a22e-5b7970834968	trz	trz	te&apos;wake&apos;m_e24636db-7faa-4d09-a22e-5b7970834968		te'wake'm		Urupá		304ae625-31a2-46b3-a0a9-37ba8fa8ca92
+#
+75	achiote	2014-04-08T15:56:19Z	2014-04-20T20:16:38Z	achiote	mawį́dn 	4490c034-65db-466b-86fd-1a02e1e42e62	trz	trz	mawi&apos;n_4490c034-65db-466b-86fd-1a02e1e42e62		mawi'n		urucú		dc842397-9fb9-439d-90e2-9e36fcee24d1
+#
+249	acánga piránga in the Acará river	2014-04-07T17:33:08Z	2014-04-20T20:17:26Z	acánga piránga in the Acará river	mamupá̩k	e449597a-fc71-4ab3-a617-60470aefebcd	trz	trz	mamupa&apos;k_e449597a-fc71-4ab3-a617-60470aefebcd		mamupa'k		acánga piránga no rio Acará		452eb838-4fe2-4dce-bf3f-5074471ffa55
+#
+150	agouti	2014-04-08T13:26:11Z	2014-04-20T20:16:10Z	agouti	tapí	8593a280-17eb-4be3-b985-c2a6dc351ff2	trz	trz	tapi_8593a280-17eb-4be3-b985-c2a6dc351ff2		tapi		cutia		320ec5f4-8cf0-40d7-a97c-0c0ef43a31c5
+#
+132	alligator	2014-04-08T14:05:11Z	2014-04-20T20:15:43Z	alligator	ahóp	712bc816-b14a-4859-8e83-fbc96c367d51	trz	trz	ahop_712bc816-b14a-4859-8e83-fbc96c367d51		ahop		jacaré		486a3e76-6c62-4de1-8d9f-29c028912cfd
+#
+19	anaconda	2014-04-08T14:29:19Z	2014-04-20T20:15:22Z	anaconda	makazetóp	0c50927c-f345-4800-b9b8-31497b74cf2d	trz	trz	makazetop_0c50927c-f345-4800-b9b8-31497b74cf2d		makazetop		sucurijú		7d44dfa6-2e1f-4065-b56e-01d4456ce96e
+#
+64	another	2014-04-28T14:34:14Z	2014-04-28T14:34:36Z	another	vini	37ed7832-db39-47db-8b9d-042e55d019b7	trz	en	vini_37ed7832-db39-47db-8b9d-042e55d019b7		vini		um outro		e8c39a5c-5a7a-4bdf-bf1f-5baddc97e4a3
+#
+181	ant	2014-04-08T14:55:54Z	2014-04-20T20:14:58Z	ant	pakipí	a1306fb9-0fbf-472c-8437-9a953a1cd745	trz	trz	pakipi_a1306fb9-0fbf-472c-8437-9a953a1cd745		pakipi		formiga		bbd4e25a-9729-4ce4-a0a0-9761cfd7d936
+#
+153	anteater	2014-04-07T19:42:46Z	2014-04-20T20:14:14Z	anteater	pičočó	8928577c-94c6-4bba-964b-d282d43584b4	trz	trz	pitxotxo_8928577c-94c6-4bba-964b-d282d43584b4		pitxotxo		tamanduá		b3b92249-dd71-4428-b466-9f8e0b42e07f
+#
+272	arm	2014-04-06T16:48:16Z	2014-04-20T20:11:11Z	arm	tipará	f9709e81-ac8c-40da-a3f8-e28820f0e1a2	trz	trz	tipara_f9709e81-ac8c-40da-a3f8-e28820f0e1a2		tipara		braço		fa7acce0-6c60-4db7-be3e-35872caab7d8
+#
+124	armadillo	2014-04-08T13:27:10Z	2014-04-20T20:10:35Z	armadillo	okarí	6a2e47bf-a936-4bb9-be46-e1fb50023b51	trz	trz	okari_6a2e47bf-a936-4bb9-be46-e1fb50023b51		okari		tatú		cd5062d3-4ab3-43db-8f43-71d0297ca299
+#
+55	arrow	2014-04-06T21:39:17Z	2014-04-20T20:10:14Z	arrow	awax̣í	2bbcc8a8-e980-453b-af10-e880ed6607e6	trz	trz	awaxi_2bbcc8a8-e980-453b-af10-e880ed6607e6		awaxi		flecha		3bb17b1a-dd79-4024-81e8-b837d136e37c
+#
+174	ash	2014-04-06T19:37:28Z	2014-04-20T20:09:51Z	ash	murootón	99bd553b-313a-4506-8995-0a031dbc402d	trz	trz	murooton_99bd553b-313a-4506-8995-0a031dbc402d		murooton		cinza		e051ff02-7063-42ca-83b9-551fbfd86d70
+#
+69	ax	2014-04-06T20:18:47Z	2014-04-20T20:09:30Z	ax	įkį́t	3dafb44d-4966-4abf-a472-38ecc9e62ffd	trz	trz	i&apos;ki&apos;t_3dafb44d-4966-4abf-a472-38ecc9e62ffd		i'ki't		machado		a18ba464-eeeb-4609-a35c-c99c7152cbf4
+#
+1	back	2014-04-06T16:22:22Z	2014-04-20T20:07:44Z	back	wuritibm	00e15d59-4db1-4095-80b4-a4b78254563f	trz	trz	wuritim_00e15d59-4db1-4095-80b4-a4b78254563f		wuritim		costas		3ee227c0-22c1-4b71-8fc8-922d0b4ff445
+247	back	2014-04-23T13:34:12Z	2014-04-23T13:35:30Z	back	uritimú̃	e2dee79f-0b00-4560-891f-4790103da34d	trz	en	uritimu_e2dee79f-0b00-4560-891f-4790103da34d		uritimu		costas		df9a523a-cae4-42dc-a9ec-b2032823a10b
+#
+204	bad	2014-04-25T15:01:22Z	2014-04-25T15:02:01Z	bad	šatidini	c2a45c97-1052-46e1-8a71-cca73935d3d8	trz	en	xatidini_c2a45c97-1052-46e1-8a71-cca73935d3d8		xatidini		ruim		b52d21b9-edbd-41a2-b206-323ea771c8a7
+#
+257	banana	2014-04-08T15:38:03Z	2014-04-20T20:07:14Z	banana	itirí	e8559fe8-9947-4097-9106-20d65a99492f	trz	trz	itiri_e8559fe8-9947-4097-9106-20d65a99492f		itiri		banana		6baa3216-7934-47b9-b30b-244d523cfb6e
+#
+248	basket	2014-04-06T21:25:22Z	2014-04-20T20:06:37Z	basket	toxóp	e375d647-9503-49a4-ae36-a950691fd5b7	trz	trz	toxop_e375d647-9503-49a4-ae36-a950691fd5b7		toxop		balaio		ee2e57f9-7a01-4d0f-b4f1-4ca58941150e
+#
+185	bat	2014-04-07T19:49:27Z	2014-04-20T20:06:05Z	bat	įynáũ	ad05a644-548d-4052-8885-dce6a7f47c47	trz	trz	i&apos;jnáũ_ad05a644-548d-4052-8885-dce6a7f47c47		i'jnáũ		morcego		bb1fe8e9-b099-4aa3-ab91-34ebb58d6248
+#
+37	bee	2014-04-08T14:55:03Z	2014-04-20T20:05:46Z	bee	tu̥šį́	16b9f1d8-3e48-4592-b941-983a393b1cee	trz	trz	tyxi&apos;_16b9f1d8-3e48-4592-b941-983a393b1cee		tyxi'		abelha		a159c1ba-9518-4acf-ab6c-c74f0658341a
+61	bee	2014-04-08T14:53:38Z	2014-04-20T20:05:28Z	bee	tawį́	3455678e-25f7-472c-aacb-7033a0f5d9ca	trz	trz	tawi&apos;_3455678e-25f7-472c-aacb-7033a0f5d9ca		tawi'		abelha		e7be10fb-626b-40cf-8da9-8747f61819f2
+#
+250	beijú	2014-04-07T16:55:18Z	2014-04-20T20:03:46Z	beijú	tu̥pawá	e4b712eb-f2e7-4631-82ce-6deade1a0444	trz	trz	typawa_e4b712eb-f2e7-4631-82ce-6deade1a0444		typawa		beijú		86202543-8ca6-42cf-834e-5f59a4224847
+#
+6	belly	2014-04-06T15:33:17Z	2014-04-20T19:43:57Z	belly	tosibm	05bc687d-37dd-42c3-97ad-efa7ccf3427e	trz	trz	tosim_05bc687d-37dd-42c3-97ad-efa7ccf3427e		tosim		barriga		e37f66b3-98d4-4419-949f-dd5fa5d65f40
+212	belly	2014-04-22T17:37:25Z	2014-04-22T17:38:16Z	belly	tosi̩pá	c506cd7d-2741-4de1-87ad-7acb5065ccc3	trz	en	tosi&apos;pa_c506cd7d-2741-4de1-87ad-7acb5065ccc3		tosi'pa		barriga		5c79d9bb-27a4-4165-a10f-b1fdb250d906
+#
+65	belt	2014-04-07T16:48:11Z	2014-04-20T19:43:28Z	belt	tukuripá	3856b52a-2d06-4e71-9a44-fd2cac553346	trz	trz	tukuripa_3856b52a-2d06-4e71-9a44-fd2cac553346		tukuripa		cinto		dadab0e9-0276-46b2-9749-023912c77cb3
+#
+165	belt of Orion	2014-04-06T17:00:46Z	2014-04-20T19:42:51Z	belt of Orion	trakamįn	9444f34c-ac84-43ff-9b36-062180db3ec7	trz	trz	trakami&apos;n_9444f34c-ac84-43ff-9b36-062180db3ec7		trakami'n		cinto de Orion		2cb37a17-9396-4758-ac95-fb59e58a6203
+#
+93	bench	2014-04-06T21:07:20Z	2014-04-20T19:42:35Z	bench	pe̩pe̩dyém	4d71f82f-dec8-4441-abf0-cefb80a4774f	trz	trz	pe&apos;pe&apos;djem_4d71f82f-dec8-4441-abf0-cefb80a4774f		pe'pe'djem		banco		d41b483c-619a-42ee-96ae-ff966ff20aa9
+172	bench	2014-04-06T21:02:12Z	2014-04-20T19:42:13Z	bench	mįrapiwá	9914ba48-4e47-4cc3-906d-106855c45000	trz	trz	mi&apos;rapiwa_9914ba48-4e47-4cc3-906d-106855c45000		mi'rapiwa		banco		a377365a-2b7f-4906-a7d7-24ce3ffd5be0
+#
+10	big	2014-04-26T13:03:45Z	2014-04-26T13:03:58Z	big	ukádnam	075a79ff-2e45-422f-a80f-4ea0a355d7d7	trz	en	ukánam_075a79ff-2e45-422f-a80f-4ea0a355d7d7		ukánam		grande		2e21ea57-1ea7-404c-940c-20192307b89e
+193	big	2014-04-26T13:02:39Z	2014-04-26T13:03:10Z	big	ukádnu	b4c00f84-6ac0-4f2d-97c5-7169dadecc26	trz	en	ukánu_b4c00f84-6ac0-4f2d-97c5-7169dadecc26		ukánu		grande		e3521567-73d8-4faa-a0ad-bf9080a02646
+207	big	2014-04-26T13:04:31Z	2014-04-26T13:05:00Z	big	u̥kádni	c31ff811-0c0b-4966-ad5a-bd1dee85f781	trz	en	ykáni_c31ff811-0c0b-4966-ad5a-bd1dee85f781		ykáni		grande		56f25f81-8dac-4764-9212-6e4c13420b76
+#
+85	bird	2014-04-08T13:28:49Z	2014-04-20T19:41:43Z	bird	umá̩	4a6f663b-89e0-475c-8a63-cf3581de4382	trz	trz	uma&apos;_4a6f663b-89e0-475c-8a63-cf3581de4382		uma'		passaro		0e8a74e3-7672-4444-a013-05d5de95104b
+#
+60	black	2014-04-25T14:30:13Z	2014-04-25T14:30:53Z	black	mo̩rém	3441ddd3-c13c-4c06-b4aa-a19ba376215f	trz	en	mo&apos;rem_3441ddd3-c13c-4c06-b4aa-a19ba376215f		mo'rem		preto		3900545a-60a3-47b9-8c5b-749b930e99ac
+131	black	2014-04-07T17:38:12Z	2014-04-20T19:41:22Z	black	muré̩m	6f371437-094a-4d71-b4fd-4bb4021a23cd	trz	trz	mure&apos;m_6f371437-094a-4d71-b4fd-4bb4021a23cd		mure'm		preto		d544e973-625d-4c3b-85f5-3a4554b946d2
+265	black	2014-04-25T14:29:04Z	2014-04-25T14:29:46Z	black	tuabni	f33f85bf-89a1-45de-97fe-a986bd4765fc	trz	en	tuabni_f33f85bf-89a1-45de-97fe-a986bd4765fc		tuabni		preto		f229d734-06da-4b76-9f01-3ea84a02d155
+#
+96	blood	2014-04-06T16:15:37Z	2014-04-20T19:40:46Z	blood	wį	50f3231f-149a-4586-b3cd-e5d49fa573ef	trz	trz	wi&apos;_50f3231f-149a-4586-b3cd-e5d49fa573ef		wi'		sangue		56b1e426-c0e7-48a7-b471-b5b5909bbb6a
+#
+199	bone	2014-04-06T15:31:58Z	2014-04-20T19:40:32Z	bone	at	bd15bfaf-4f43-4638-b7db-f9e85781c93b	trz	trz	at_bd15bfaf-4f43-4638-b7db-f9e85781c93b		at		osso		d3b71f8c-7bfc-4384-9660-0d2d5f448d37
+#
+178	bow	2014-04-06T20:13:41Z	2014-04-20T19:40:09Z	bow	parí	9f7d9708-27a6-460d-a3bf-2d120a70a9be	trz	trz	pari_9f7d9708-27a6-460d-a3bf-2d120a70a9be		pari		arco		813d7060-9ba1-4c04-8a34-8253cc810678
+#
+225	brocket deer	2014-04-08T13:19:40Z	2014-04-20T19:38:57Z	brocket deer	viyemóp	d0db5956-a07e-4f29-a458-3034d3a642b7	trz	trz	vijemop_d0db5956-a07e-4f29-a458-3034d3a642b7		vijemop		veado mateiro		696666ee-866c-4c66-9d2e-3742a81c6156
+#
+213	bush	2014-04-08T15:04:33Z	2014-04-20T19:34:01Z	bush	umí	c69616f2-6c39-4934-98b3-0d6c67446ef1	trz	trz	umi_c69616f2-6c39-4934-98b3-0d6c67446ef1		umi		mato		7412764b-3fa5-4e20-af95-d1fb02c585bc
+#
+202	buttocks	2014-04-06T16:28:35Z	2014-04-20T19:33:07Z	buttocks	taahón	be23085e-3caf-4af7-bad1-739fd4cfd3ca	trz	trz	taahon_be23085e-3caf-4af7-bad1-739fd4cfd3ca		taahon		nadegas		e73088f8-ad4d-43e7-b1e3-9de07fd4c3cc
+#
+262	cachiry	2014-04-06T21:37:57Z	2014-04-20T19:32:43Z	cachiry	šakįrī́	efd2215b-5648-47f4-a790-5a20bb7ee2ed	trz	trz	xaki&apos;ri_efd2215b-5648-47f4-a790-5a20bb7ee2ed		xaki'ri		cachiry		c06f68da-f07c-4f58-8f75-78013b15a76c
+#
+211	canoe	2014-04-06T21:11:41Z	2014-04-20T19:31:27Z	canoe	anawá	c4e9da48-0c51-434d-a108-58a31e87ced5	trz	trz	anawa_c4e9da48-0c51-434d-a108-58a31e87ced5		anawa		canoa		c14f30ed-883d-4fab-8291-6acb791a9f5a
+#
+141	capuchin monkey	2014-04-07T19:46:10Z	2014-04-20T17:18:10Z	capuchin monkey	yuįn	795f42c3-68be-4a4e-9c2c-bb58fed15433	trz	trz	jui&apos;n_795f42c3-68be-4a4e-9c2c-bb58fed15433		jui'n		Macaco prego		aaa8061e-0bac-4a8f-84ae-8981eb5b644b
+#
+8	capybara	2014-04-08T13:25:22Z	2014-04-20T17:08:52Z	capybara	awán	06135da9-22e8-49e7-8377-905c29bb2a39	trz	trz	awan_06135da9-22e8-49e7-8377-905c29bb2a39		awan		capivara		f6756a74-d214-4c59-9002-5becf9f04d0a
+#
+222	caripúna	2014-04-07T17:32:10Z	2014-04-20T17:07:47Z	caripúna	karihuná	ce1d00b2-6fb6-49da-83ca-523123343ec3	trz	trz	karihuna_ce1d00b2-6fb6-49da-83ca-523123343ec3		karihuna		caripúna		8949cff9-7695-4b4e-961a-e53aecfd4579
+#
+125	cará	2014-04-08T15:51:49Z	2014-04-20T17:08:16Z	cará	piru̥	6d70c081-4764-455b-b58b-ed245a5be5b4	trz	trz	piry_6d70c081-4764-455b-b58b-ed245a5be5b4		piry		cará		021e54fd-59b2-4c52-a1ee-e749558ffb55
+#
+9	catfish	2014-04-08T14:46:31Z	2014-04-20T17:06:58Z	catfish	orokotá	063984c4-d827-40c0-b0d9-5a212270b936	trz	trz	orokota_063984c4-d827-40c0-b0d9-5a212270b936		orokota		suruby		d8ad4248-b672-41e6-9dbf-9ca196dc8cc9
+#
+59	chameleon	2014-04-08T14:31:50Z	2014-04-20T17:06:39Z	chameleon	sįnįmį̄	31c7b812-357b-4cfb-b5e0-540d25d9b526	trz	trz	si&apos;ni&apos;mi&apos;_31c7b812-357b-4cfb-b5e0-540d25d9b526		si'ni'mi'		camelão		88327cd2-e92a-45ff-8fbb-0de2a353fcf4
+#
+255	chest	2014-04-23T13:36:26Z	2014-04-23T13:37:16Z	chest	ikimã	e7e142c0-2ab4-4d0b-80db-572487a01ac2	trz	en	ikima_e7e142c0-2ab4-4d0b-80db-572487a01ac2		ikima		peito		ad909886-11ba-4e40-9ad0-dc0cceb7a23a
+261	chest	2014-04-06T16:24:13Z	2014-04-20T17:05:58Z	chest	įkįbm	ef9cc702-d6b5-4b97-a98d-5fe0dc208c53	trz	trz	i&apos;ki&apos;m_ef9cc702-d6b5-4b97-a98d-5fe0dc208c53		i'ki'm		peito		dd7236cd-d38b-49fb-ae54-53e58bac241c
+#
+220	chicken	2014-04-08T13:46:07Z	2014-04-20T17:05:35Z	chicken	patërí	cc1baaf6-5006-4f8b-a9e5-de5a96d9b4ca	trz	trz	pateri_cc1baaf6-5006-4f8b-a9e5-de5a96d9b4ca		pateri		galinha		b54706e8-d43c-41a2-b331-8bc0303227f5
+#
+269	cichla	2014-04-08T14:50:40Z	2014-04-20T17:05:17Z	cichla	parirá	f70ec555-6afa-46c1-bfc8-12c5eda6b4ee	trz	trz	parira_f70ec555-6afa-46c1-bfc8-12c5eda6b4ee		parira		tucunaré		dc90f5fa-a571-4ce9-8b9b-c54b887da26c
+#
+226	cloth	2014-04-07T16:45:14Z	2014-12-07T17:36:11Z	cloth	hu̥į́	d1b95c55-ad34-4e42-8aa4-eb9f27751bc4	trz	trz	hyi&apos;_d1b95c55-ad34-4e42-8aa4-eb9f27751bc4		hyi'		pano		463de8a6-2c19-408d-bbd4-1dadd6565fc2" order="1
+#
+106	cloud	2014-04-06T19:51:29Z	2014-04-20T17:03:55Z	cloud	tuaayí	597fae7e-8cfd-4324-8719-37cb61a58831	trz	trz	tuaaji_597fae7e-8cfd-4324-8719-37cb61a58831		tuaaji		nuvem		82788044-67af-4379-920a-12653fba7844
+#
+177	coal	2014-04-06T19:42:13Z	2014-04-20T17:03:35Z	coal	tayídn	9ec6ef39-8875-4123-9c24-295c7e2fe567	trz	trz	tajin_9ec6ef39-8875-4123-9c24-295c7e2fe567		tajin		carvão		1089a427-2392-44ab-9911-29cd0339424b
+#
+158	cold	2014-04-25T14:49:08Z	2014-04-25T14:50:11Z	cold	šiuni	8c1511fa-7004-4c67-9a3c-18e01dfd568f	trz	en	xiuni_8c1511fa-7004-4c67-9a3c-18e01dfd568f		xiuni		frio		8606bba0-5386-47b7-affc-f15e5c81846d
+#
+102	comb	2014-04-06T20:24:11Z	2014-04-20T17:03:18Z	comb	pičáp	57019832-2477-45f6-b896-3f8431b5fe6f	trz	trz	pitxap_57019832-2477-45f6-b896-3f8431b5fe6f		pitxap		pente		577074e3-a1bd-486f-b341-4cdec0c86979
+#
+137	corn	2014-04-08T15:06:31Z	2014-04-20T17:02:30Z	corn	mapák	752af7af-55d3-414a-a275-c83da9584d5d	trz	trz	mapak_752af7af-55d3-414a-a275-c83da9584d5d		mapak		milho		8d315edc-5502-4f44-bf1e-fd6f3ab45a37
+#
+228	cotton	2014-04-08T15:50:32Z	2014-04-20T17:02:05Z	cotton	om	d1bebf7d-b6bc-494b-a007-95da0b912303	trz	trz	om_d1bebf7d-b6bc-494b-a007-95da0b912303		om		algodão		edb2ae70-d4ed-4a2b-a30e-f381a3812579
+#
+11	countryside	2014-04-08T15:44:35Z	2014-04-20T17:01:00Z	countryside	takurá	07bb511f-215c-465d-852d-c1131d43241e	trz	trz	takura_07bb511f-215c-465d-852d-c1131d43241e		takura		campo		b3996662-6cb4-4762-8fd9-6bd6f073ba94
+#
+31	cousin	2014-04-07T18:18:56Z	2014-04-20T16:59:02Z	cousin	viti	1398b604-cdff-4b36-a2fe-a34d24c86a53	trz	trz	viti1_1398b604-cdff-4b36-a2fe-a34d24c86a53	1	viti		primo		f90cbee6-5fed-4582-ab0f-e5df84b2c115
+#
+191	cujubim	2014-04-08T13:57:46Z	2014-04-20T16:58:17Z	cujubim	pihún	b2c9a57b-e4fe-4e17-83dd-c377f3b5bd4a	trz	trz	pihun_b2c9a57b-e4fe-4e17-83dd-c377f3b5bd4a		pihun		cujubim		04876016-da85-4210-a05c-005f49c7191d
+#
+216	daughter	2014-04-07T17:47:11Z	2014-12-07T17:39:13Z	daughter	irató	c91ef62c-738a-421b-b8e0-62339f4d1ba3	trz	trz	irató_c91ef62c-738a-421b-b8e0-62339f4d1ba3		irató		filha		f4e49830-619e-42ed-88e6-c3590a815700" order="1
+#
+44	day	2014-04-06T19:52:53Z	2014-04-20T16:57:21Z	day	anapat	1f4a90a5-283e-4ce4-8faa-3a6e0e58e536	trz	trz	anapat_1f4a90a5-283e-4ce4-8faa-3a6e0e58e536		anapat		dia		69b6916f-1fd1-453b-8690-c2d1af9a0bdb
+#
+121	defunct	2014-04-07T19:03:45Z	2014-04-20T16:56:28Z	defunct	kunáī	66794e9c-9736-4132-b6fb-844fa8b6eecb	trz	trz	kunái_66794e9c-9736-4132-b6fb-844fa8b6eecb		kunái		defunto		14a91612-2cae-4f80-a7fc-331f4900969a
+#
+238	diadem of feathers	2014-04-07T16:49:12Z	2014-04-20T16:56:04Z	diadem of feathers	mįyní	d99c61ab-4ba1-418b-96c4-c9a676497298	trz	trz	mi&apos;jni_d99c61ab-4ba1-418b-96c4-c9a676497298		mi'jni		diadema de penas		934cb080-525b-4dad-94e9-7d05bc6d98ed
+#
+63	dog	2014-04-25T14:06:14Z	2014-04-25T14:08:01Z	dog	ki̩nám	354d246e-8bf3-4731-9c45-2190158191c3	trz	en	ki&apos;nam_354d246e-8bf3-4731-9c45-2190158191c3		ki'nam		cachorro		0ccfbdfc-6ddc-4525-b33f-afdfa5b86a4d
+#
+76	duck	2014-04-08T13:47:49Z	2014-04-20T15:38:09Z	duck	manakanu̥p	44ab982d-8bfd-4882-8189-b5b4ecc0524e	trz	trz	manakanyp_44ab982d-8bfd-4882-8189-b5b4ecc0524e		manakanyp		pato		488da54c-e02f-4e77-9c1e-23e97e8bfde5
+#
+130	ear	2014-04-06T15:06:31Z	2014-04-20T15:35:03Z	ear	tẽtét	6f33fb24-874f-4318-ab10-250041efa7c7	pt	trz	tẽtet_6f33fb24-874f-4318-ab10-250041efa7c7		tēlét		orelha		af9c3802-5ef9-401e-b800-cfdc172861c7
+#
+206	egg	2014-04-08T13:52:22Z	2014-04-20T15:33:40Z	egg	azerón	c301c213-e125-4b2a-9136-35806841dbf2	trz	trz	azeron_c301c213-e125-4b2a-9136-35806841dbf2		azeron		ovo		ab4018e8-1d0b-4c38-a7e3-8f654e11b06a
+#
+159	elbow	2014-04-23T13:57:32Z	2014-04-23T13:57:57Z	elbow	pitukú	8c54fee1-d80b-40b3-9df0-a1976fc9d9fd	trz	en	pituku_8c54fee1-d80b-40b3-9df0-a1976fc9d9fd		pituku		cotovelo		baf2c3f5-469f-4550-9a1a-ac092a12411c
+258	elbow	2014-04-06T16:49:30Z	2014-04-20T15:32:54Z	elbow	pitók	e9c8be90-eeb3-4ac8-a2ba-ce93e0cc683c	trz	trz	pitok_e9c8be90-eeb3-4ac8-a2ba-ce93e0cc683c		pitok		cotovelo		474807d0-ebc1-487f-bcab-161e444e60b3
+#
+151	electric eel	2014-04-08T14:48:48Z	2014-04-20T15:32:25Z	electric eel	nowį́	85fcdde5-2f72-4517-8064-981509ed8d1a	trz	trz	nowi&apos;_85fcdde5-2f72-4517-8064-981509ed8d1a		nowi'		poraqué		68334720-a52e-40ee-b2f0-4c5e93bb8300
+#
+256	enemy	2014-04-07T18:49:01Z	2014-04-20T15:32:02Z	enemy	mu̥pįná	e7fcae93-909d-4097-ba8e-8c1090c676a6	trz	trz	mypi&apos;na_e7fcae93-909d-4097-ba8e-8c1090c676a6		mypi'na		inimigo		6604d6c8-0e1c-4f47-ae91-17adae7bf9c1
+#
+215	eye	2014-04-06T16:06:23Z	2014-04-20T15:31:15Z	eye	tok	c8c6fc47-cc50-4f00-a07d-1ef7772e6745	trz	trz	tok_c8c6fc47-cc50-4f00-a07d-1ef7772e6745		tok		olho		675234a7-ff8a-4bc8-9906-dd3f19e89a29
+#
+47	eyebrow	2014-04-06T15:41:41Z	2014-04-20T15:30:50Z	eyebrow	tupaitók	23fb1271-d581-438c-b4e9-7231d709dd7c	trz	trz	tupaitok_23fb1271-d581-438c-b4e9-7231d709dd7c		tupaitok		sobrancelha		47b80985-0bd1-40a9-9156-add26053f2ff
+#
+22	face	2014-04-06T16:33:26Z	2014-04-20T15:30:31Z	face	natará	0f1d84f2-1bd9-46c7-9035-5fe06dad25cd	trz	trz	natara_0f1d84f2-1bd9-46c7-9035-5fe06dad25cd		natara		rosto		361eae10-d428-4246-ab2b-2d103785ef09
+#
+219	fan	2014-04-07T16:52:26Z	2014-04-20T15:30:08Z	fan	paukiyábm	cb1e1ea9-cbb9-4fb4-9fac-253caef21f56	trz	trz	paukijam_cb1e1ea9-cbb9-4fb4-9fac-253caef21f56		paukijam		abano		e096fab5-453f-495b-b69c-b669d73224ae
+#
+7	father	2014-04-07T18:10:12Z	2014-04-24T15:50:51Z	father	itë́	05f16dba-0f97-40e2-8abb-2347d73027d7	trz	trz	ite_05f16dba-0f97-40e2-8abb-2347d73027d7		ite		pai		ba2d426f-1610-4dda-9e2e-f3b30e638455
+#
+240	fire	2014-04-06T19:29:23Z	2014-04-20T15:28:22Z	fire	ix̣ë́	dc76f637-5871-43f7-9de7-b80dd30c0ec0	trz	trz	ixe2_dc76f637-5871-43f7-9de7-b80dd30c0ec0	2	ixe		fogo		7074cad7-a05e-4f21-867c-8f9a536bd764
+#
+201	firewood	2014-04-06T19:57:28Z	2014-04-20T15:26:43Z	firewood	ix̣ë́	bd8a3f4f-0e9b-4246-ab13-8b3f34421356	trz	trz	ixe1_bd8a3f4f-0e9b-4246-ab13-8b3f34421356	1	ixe		lenha		35db8f3c-40ae-4bbb-b2c2-28cf01048c19
+#
+30	fish	2014-04-08T14:41:24Z	2014-04-20T15:23:54Z	fish	hoám	136bbb45-f4d1-479b-9e60-4981961a4c85	trz	trz	hoam_136bbb45-f4d1-479b-9e60-4981961a4c85		hoam		peixe		bc8363d6-97f8-413f-9838-b56f48b021cb
+#
+28	flea	2014-04-08T15:03:47Z	2014-04-20T15:23:35Z	flea	huyipí	12dc783c-c1a9-4e21-a608-d7244cfba5c9	trz	trz	hujipi_12dc783c-c1a9-4e21-a608-d7244cfba5c9		hujipi		pulga		1029343d-3687-4b76-9f0c-12b0407b840f
+#
+88	flour	2014-04-07T16:54:21Z	2014-04-20T15:22:43Z	flour	uí	4bb41093-8087-4712-95bc-67059efdeeac	trz	trz	ui_4bb41093-8087-4712-95bc-67059efdeeac		ui		farinha		042a69de-5fa8-4ae2-b69e-129ae7768e12
+#
+186	flute of taboca	2014-04-07T19:21:58Z	2014-04-20T15:20:50Z	flute of taboca	kixo̠	ad906d32-4472-46ab-ae86-721b36c50190	trz	trz	kixo_ad906d32-4472-46ab-ae86-721b36c50190		kixo		flauta de taboca		a84646b1-a84f-4cd4-b8b5-e0d717165ed9
+#
+58	food	2014-04-28T15:37:47Z	2014-04-28T15:38:43Z	food	kauwi̩rẽn	3114f10c-0220-430a-a52a-1650e61e7ced	trz	en	kauwi&apos;ren_3114f10c-0220-430a-a52a-1650e61e7ced		kauwi'ren		comida		190080fa-2283-4cad-949e-ebb18974037e
+#
+155	foot	2014-04-06T15:56:14Z	2014-04-20T15:19:52Z	foot	šinyak	8a3f6be7-d44b-4277-86f9-3c7a5748a413	trz	trz	xinjak_8a3f6be7-d44b-4277-86f9-3c7a5748a413		xinjak		pé		673aa1b6-e0ed-4f85-9e49-64f13bf16ede
+#
+143	fruit of wine	2014-04-06T16:37:43Z	2014-12-07T17:55:21Z	fruit of wine	trawádn	7c5782e7-7219-4eb2-9e0c-8835035f300a	trz	trz	trawan_7c5782e7-7219-4eb2-9e0c-8835035f300a		trawan		patauá		8f337c3b-5863-4483-8f57-9548ac7bae82" order="1
+#
+195	good	2014-04-25T14:54:52Z	2014-04-25T14:55:30Z	good	iterā́dni	b7168262-3804-4dfc-99c7-3ca764e73744	trz	en	iteráni_b7168262-3804-4dfc-99c7-3ca764e73744		iteráni		bom		136caede-701d-4ddc-82fa-ad62fd56c3f0
+#
+97	gourd	2014-04-07T16:33:29Z	2014-04-20T15:18:58Z	gourd	oróm	51041290-2009-4084-a266-b389a9789cac	trz	trz	orom_51041290-2009-4084-a266-b389a9789cac		orom		cuia		e4840b09-e2f2-4505-b4d8-1cb358289099
+#
+32	grandfather	2014-04-07T17:54:39Z	2014-04-20T15:17:33Z	grandfather	wįwį́	13e5184b-96c4-462e-8990-e63ca67f4234	trz	trz	wi&apos;wi&apos;_13e5184b-96c4-462e-8990-e63ca67f4234		wi'wi'		avô paterno		07029b12-4de4-4dbd-9bb9-0e9c506ebee2
+#
+41	grandmother	2014-04-07T17:56:27Z	2014-04-20T15:17:13Z	grandmother	tĕotó	19853986-992e-4296-90a9-736451dde8bb	trz	trz	teoto_19853986-992e-4296-90a9-736451dde8bb		teoto		Avó paterno		bc919061-994d-41a3-9811-718420f146c2
+120	grandmother	2014-04-07T18:47:50Z	2014-04-20T15:16:16Z	grandmother	apá	6638f47b-55c7-4c52-9e30-7dbbaac3e985	trz	trz	apa_6638f47b-55c7-4c52-9e30-7dbbaac3e985		apa		avó materna		2f2164bc-0d36-4b59-b706-0aaf3a8c484a
+275	grandmother	2014-04-07T18:47:05Z	2014-04-20T15:16:05Z	grandmother	iyé	fc151c94-94aa-4a4e-9695-0d12f8740a6f	trz	trz	ije_fc151c94-94aa-4a4e-9695-0d12f8740a6f		ije		avó paterna		1514a390-67aa-4224-be64-8a8b5155ee3a
+#
+23	grave	2014-04-07T19:27:38Z	2014-04-20T15:15:42Z	grave	diyawat	1020fbae-092c-49f6-bad4-cc85a0d2b18d	trz	trz	dijawat_1020fbae-092c-49f6-bad4-cc85a0d2b18d		dijawat		sepultura		d478cf05-8e42-465f-be45-bf04adf09ba1
+#
+2	green 	2014-04-25T14:32:57Z	2014-12-07T17:44:55Z	green 	narádni	045f74f5-504a-4aeb-95bc-6758d4df7a5f	trz	en	naráni_045f74f5-504a-4aeb-95bc-6758d4df7a5f		naráni		verde		7c38692e-71cb-49a6-9db9-9a38e1083a60" order="1
+123	green 	2014-04-25T14:34:17Z	2014-12-07T17:45:15Z	green 	narádnu	673f4b92-fae8-4cd7-8ec1-fd0ac410b942	trz	en	naránu_673f4b92-fae8-4cd7-8ec1-fd0ac410b942		naránu		verde		12d62e24-5814-4833-9847-1d468536b93c" order="1
+#
+52	hair	2014-04-06T15:29:11Z	2014-04-20T15:15:06Z	hair	tinkinyúm	27ff6cd5-1ccf-4ab3-b69d-22926cf67803	trz	trz	tinkinjum_27ff6cd5-1ccf-4ab3-b69d-22926cf67803		tinkinjum		pelo		fadf61aa-824b-4bc8-8765-00954a907eb6
+#
+119	hand	2014-04-06T16:50:41Z	2014-04-20T15:14:38Z	hand	ubm	65539524-f0e7-42c2-8d0a-50ab7fa83998	trz	trz	um_65539524-f0e7-42c2-8d0a-50ab7fa83998		um		mão		d184e9c4-43ba-4086-948c-19091c65038e
+#
+149	he	2014-04-28T14:17:36Z	2014-04-28T14:18:05Z	he	wariko	83698253-a996-4a06-97e2-f23acf7a0894	trz	en	wariko_83698253-a996-4a06-97e2-f23acf7a0894		wariko		ele		e7ff4be6-78f5-479e-9be0-a24dc32c9a4d
+#
+103	head	2014-04-06T16:11:11Z	2014-04-20T15:14:14Z	head	u̥pį́k	5824e0f3-8f95-42ce-a518-54aadf4807bd	trz	trz	ypi&apos;k_5824e0f3-8f95-42ce-a518-54aadf4807bd		ypi'k		cabeça		574fecba-bbc1-4e2b-93aa-469e831ec232
+117	head	2014-04-06T16:13:58Z	2014-04-20T15:13:51Z	head	upá̩	601fd6ea-316e-431b-990a-442735d6317d	trz	trz	upa&apos;_601fd6ea-316e-431b-990a-442735d6317d		upa'		cabeça		8aff68a3-228e-4aa5-9d9f-0372ccc46892
+#
+89	heart	2014-04-06T15:49:17Z	2014-04-20T15:13:35Z	heart	tukitimu̥n	4c05d7d5-3ab6-497b-a409-2e4d13baa785	trz	trz	tukitimyn_4c05d7d5-3ab6-497b-a409-2e4d13baa785		tukitimyn		coração		acdabb5e-0b23-4c43-a1ba-a0202efb0c65
+260	heart	2014-04-22T17:42:10Z	2014-04-22T17:42:34Z	heart	timú	eccfb3cd-fa81-4918-92e7-aff78e4f10b9	trz	en	timu_eccfb3cd-fa81-4918-92e7-aff78e4f10b9		timu		coração		a519aff1-14ed-4e1f-b0ae-f8154c5c0bb5
+#
+34	here	2014-04-26T13:37:43Z	2014-04-26T13:39:51Z	here	hi̩i̩	162b12ae-9fb3-4098-ba1e-2ef9b150402d	trz	en	hi&apos;i&apos;_162b12ae-9fb3-4098-ba1e-2ef9b150402d		hi'i'		aqui		46da373b-3243-4544-8953-2ad8b1376adb
+#
+26	his wife	2014-04-07T17:53:04Z	2014-04-20T15:13:12Z	his wife	nipeyum	11353697-691a-4dcb-b5d5-536740f5a5cc	trz	trz	nipejum_11353697-691a-4dcb-b5d5-536740f5a5cc		nipejum		a mulher dele		a0f0b9fe-a504-4288-90c3-a8bf4ffaab7f
+#
+194	honey	2014-04-08T14:59:21Z	2014-04-20T15:08:50Z	honey	wahu̥m	b58c88c9-b99d-497a-8175-39b93943639c	trz	trz	wahym_b58c88c9-b99d-497a-8175-39b93943639c		wahym		mel		a5709886-bdf0-4f8f-af7c-0448f3cefa71
+#
+73	hook	2014-04-06T20:22:21Z	2014-04-20T15:08:08Z	hook	pi	417cee77-24c9-4630-940b-34401103c1ed	trz	trz	pi_417cee77-24c9-4630-940b-34401103c1ed		pi		anzol		cd74e70e-af8b-4932-85df-521a2ba017af
+#
+200	hot	2014-04-25T14:52:46Z	2014-04-25T14:53:33Z	hot	tumurëni	bd1a653e-b389-42b6-9adb-959fdb52925e	trz	en	tumureni_bd1a653e-b389-42b6-9adb-959fdb52925e		tumureni		quente		46710fb8-ae23-469f-8cdd-5624191ed45c
+#
+236	house	2014-04-07T16:30:02Z	2014-04-20T15:07:20Z	house	atirím	d6d6533f-948d-435a-99a6-ad63673918d4	trz	trz	atirim_d6d6533f-948d-435a-99a6-ad63673918d4		atirim		casa		7fa29be1-62f3-4e4e-8e98-58673cbc3cfd
+#
+239	howler monkey	2014-04-07T19:31:15Z	2014-04-20T15:07:03Z	howler monkey	ororëm	da2f4101-98ae-4607-9b0d-ffd640589df2	trz	trz	ororem_da2f4101-98ae-4607-9b0d-ffd640589df2		ororem		guariba		39b96d95-891d-4cd2-9807-bb599ef58c0e
+#
+122	hunting	2014-04-07T19:30:01Z	2014-04-20T15:06:49Z	hunting	kuzumā	66fcbac5-3aad-4912-8266-10fbd6198100	trz	trz	kuzuma_66fcbac5-3aad-4912-8266-10fbd6198100		kuzuma		caça		30447770-4ebd-430b-b800-e9cddb6989f5
+#
+14	in the back	2014-04-28T13:37:30Z	2014-04-28T13:37:59Z	in the back	tosi	0a51e329-cba9-41d3-a01f-fee33ee2ccaa	trz	en	tosi_0a51e329-cba9-41d3-a01f-fee33ee2ccaa		tosi		no fundo		38892b80-4de9-4461-bfcb-31aeea65f91f
+#
+270	indian brave	2014-04-07T19:02:13Z	2014-04-20T15:06:02Z	indian brave	nakazetí	f72718e8-4ecb-4367-a8fd-578d234d6fd8	trz	trz	nakazeti_f72718e8-4ecb-4367-a8fd-578d234d6fd8		nakazeti		índio bravo		2dec8522-40ef-4786-afa5-abdcd54ffcf4
+#
+5	inside	2014-04-28T13:33:20Z	2014-04-28T13:34:54Z	inside	kosi	05497d45-8eae-461e-be56-07d803a19802	trz	en	kosi_05497d45-8eae-461e-be56-07d803a19802		kosi		dentro		7519ea23-03d0-4d26-b33d-361f30c13d55
+#
+128	is sick	2014-04-26T13:22:47Z	2014-04-26T13:23:30Z	is sick	naymí̩̃	6e1ae10b-e827-4111-b6ce-fc51a2d12cec	trz	en	najmi&apos;_6e1ae10b-e827-4111-b6ce-fc51a2d12cec		najmi'		está doente		be1c7f15-11bd-4124-b340-9fbca978a889
+#
+224	jaboty	2014-04-08T14:26:31Z	2014-04-20T15:05:48Z	jaboty	yautí	d0d90145-9feb-4b07-9fef-8ea09ef4a4b4	trz	trz	jauti_d0d90145-9feb-4b07-9fef-8ea09ef4a4b4		jauti		jaboty		ecfd26aa-c9cb-4f02-bc32-51fdc56915f5
+#
+98	knee	2014-04-06T16:45:03Z	2014-04-20T15:02:03Z	knee	tukazibm	52123e3a-14bd-406e-afe1-3f97bdd21028	trz	trz	tukazim_52123e3a-14bd-406e-afe1-3f97bdd21028		tukazim		joelho		2cf62028-e7d1-4b9f-bdb8-10cb1bf54daa
+#
+38	knife	2014-04-07T16:34:37Z	2014-04-24T14:53:54Z	knife	yuimã	1737ec2c-2ad2-432c-bbc4-d3b60b08f74d	trz	trz	juima_1737ec2c-2ad2-432c-bbc4-d3b60b08f74d		juima		faca		c2308f67-bcb8-434b-b85f-667b3c85b809
+#
+171	land	2014-04-06T20:00:18Z	2014-04-20T15:00:36Z	land	timák	98993130-57fc-42fe-80a1-1d164b58a65d	trz	trz	timak_98993130-57fc-42fe-80a1-1d164b58a65d		timak		tierra		cf46bdc4-f5ae-468d-b0dd-71cf57746ec1
+#
+100	leaf	2014-04-08T15:45:44Z	2014-04-20T14:59:29Z	leaf	muramį́̃	54dd78f6-c297-460d-92f0-b9daf2ef337e	trz	trz	muramĩ&apos;_54dd78f6-c297-460d-92f0-b9daf2ef337e		muramĩ'		folha		2bb76570-091b-4d41-80e3-a8014a1fb91e
+#
+72	lip	2014-04-06T15:37:03Z	2014-04-20T14:58:26Z	lip	tupák	416dd6c1-c9c3-421e-9c4b-be8b42fd75fc	trz	trz	tupak_416dd6c1-c9c3-421e-9c4b-be8b42fd75fc		tupak		labio		923386be-8a54-4669-b038-4e2a11c08a04
+#
+192	little arrow of ftraw	2014-04-06T21:40:09Z	2014-04-20T14:58:08Z	little arrow of ftraw	torót	b379be17-2780-4c4d-b1aa-9101355b2de3	trz	trz	torot_b379be17-2780-4c4d-b1aa-9101355b2de3		torot		flechinha de palha		ae5fcc93-b1a1-41f8-bd11-976b88beeb6f
+#
+234	liver	2014-04-23T13:53:19Z	2014-04-23T13:53:42Z	liver	trawaná	d607ade4-1a05-4a12-9f1c-b8b755d99331	trz	en	trawana_d607ade4-1a05-4a12-9f1c-b8b755d99331		trawana		fígado		15d550bb-4d73-4388-8dea-43c37dffe5a4
+#
+29	lizard-big	2014-04-08T14:06:35Z	2014-04-20T14:57:12Z	lizard-big	worahoku̥t	12e5e766-533f-49ec-8503-d5e2cec2b05e	trz	trz	worahokyt_12e5e766-533f-49ec-8503-d5e2cec2b05e		worahokyt		tejú		8f6a0799-6d71-48fb-b523-8db1586d6f6e
+#
+179	louse	2014-04-08T14:58:21Z	2014-04-20T14:56:49Z	louse	įw	a1050807-22c1-417a-85df-6e55e88c6752	trz	trz	i&apos;w_a1050807-22c1-417a-85df-6e55e88c6752		i'w		piolho		6bfbb9e4-308e-45ec-8383-d90825b8a46e
+#
+25	man	2014-04-07T17:39:31Z	2014-04-20T14:54:22Z	man	nakódn	109d673c-8814-4dc6-b014-278865f16aa2	trz	trz	nakon_109d673c-8814-4dc6-b014-278865f16aa2		nakon		homem		97ebad0b-e6cb-4629-9f01-a548f3fe858f
+#
+164	manioc	2014-04-08T15:49:02Z	2014-04-20T14:42:16Z	manioc	akóp	92286a80-4a68-436e-a954-bec74591de19	trz	trz	akop_92286a80-4a68-436e-a954-bec74591de19		akop		mandioca		eca0588a-e4d2-4d4d-8ce8-342686a8e5b0
+#
+83	many	2014-04-25T14:03:13Z	2014-04-25T14:04:05Z	many	asiné̃yi	48780c36-9dc9-402f-beb3-4d52de744829	trz	en	asinéji_48780c36-9dc9-402f-beb3-4d52de744829		asinéji		muitos		86bea544-5918-4d0a-a46f-566e93dea37a
+156	many	2014-04-25T13:59:22Z	2014-04-25T13:59:49Z	many	yabnam	8ac4e1ff-5059-45d0-8936-dc074c5060f8	trz	en	jabnam_8ac4e1ff-5059-45d0-8936-dc074c5060f8		jabnam		muitos		07aef99e-dbc3-4b8e-9c2e-45c2eca91c11
+187	many	2014-04-25T14:00:31Z	2014-04-25T14:00:44Z	many	yabni	adfe05ea-e5d2-41f3-9a1c-8ed247c7a6b4	trz	en	jabni_adfe05ea-e5d2-41f3-9a1c-8ed247c7a6b4		jabni		muitos		df6d4fea-9a14-4c65-9889-03d7cee4cae4
+188	many	2014-04-25T13:57:49Z	2014-04-25T13:58:42Z	many	yabno	b13ffd7d-aec7-4a9a-9900-46fa6b0dd599	trz	en	jabno_b13ffd7d-aec7-4a9a-9900-46fa6b0dd599		jabno		muitos		af875498-caa7-453d-ad36-370a6f11c31a
+190	many	2014-04-25T14:01:29Z	2014-04-25T14:02:07Z	many	yabmaní̃	b287f648-f8b0-4c3a-95a6-2abb5daa5fe5	trz	en	jamani_b287f648-f8b0-4c3a-95a6-2abb5daa5fe5		jamani		muitos		a46dc61d-ed10-46f8-8074-528b960e289b
+#
+210	matanauy	2014-04-07T17:30:49Z	2014-04-20T14:41:07Z	matanauy	matanawį́	c4789c48-60ba-4932-9f18-dbd7c40824f3	trz	trz	matanawi&apos;_c4789c48-60ba-4932-9f18-dbd7c40824f3		matanawi'		matanauy		9463c8cb-c409-47bb-9bd4-fb57578b6eea
+#
+77	moon	2014-04-06T19:52:11Z	2014-04-20T14:40:48Z	moon	panaó	457e3b55-1fb8-4d40-a99b-b41fc0decec1	trz	trz	panao_457e3b55-1fb8-4d40-a99b-b41fc0decec1		panao		lua		879211a0-2242-4c44-b76f-2119263a55fe
+#
+198	morning	2014-04-06T19:55:28Z	2014-04-20T14:40:31Z	morning	toanatí	bcd5dd38-7449-4316-a6a2-9057dbe6fc46	trz	trz	toanati_bcd5dd38-7449-4316-a6a2-9057dbe6fc46		toanati		manhã		9091a653-ea22-42dd-b897-d6a7612f8eaf
+#
+86	mother	2014-04-07T17:42:36Z	2014-04-20T01:05:47Z	mother	inyá	4b49d7c2-53db-4a8c-83ff-7b2387cccbd2	trz	trz	inja_4b49d7c2-53db-4a8c-83ff-7b2387cccbd2		inja		mãe		21416209-5b53-4e6c-8320-883b0a7b19ca
+#
+101	mouth	2014-04-06T15:59:48Z	2014-04-20T01:05:04Z	mouth	tu̥aráu	5618c2c1-7b25-441d-86cf-f2fe48f16f7d	trz	trz	tyaraw_5618c2c1-7b25-441d-86cf-f2fe48f16f7d		tyaraw		boca		f1409e0b-7b5f-4b55-a4ad-4fb8ba5351cd
+#
+170	mustache	2014-04-22T17:07:17Z	2014-04-22T17:08:23Z	mustache	tu̥ní	9898677c-1e0c-49b7-a2a5-1b986d60a45f	trz	en	tyni_9898677c-1e0c-49b7-a2a5-1b986d60a45f		tyni		bigode		8ee7107b-9c0d-4bf1-8e5d-ee3fe6430ed3
+#
+21	my aunt	2014-04-24T15:39:15Z	2014-04-24T15:41:52Z	my aunt	iwí	0d547ca6-77eb-4653-9193-19028aaa0d1e	trz	en	iwi_0d547ca6-77eb-4653-9193-19028aaa0d1e		iwi		minha tia		b63935ab-1f40-47d6-9fbe-47593c71fbd8
+#
+231	my brother in law	2014-04-07T18:41:07Z	2014-04-24T15:57:04Z	my brother in law	kuytí	d2a04e53-faa3-454b-a050-8393f9edce76	trz	trz	kujti_d2a04e53-faa3-454b-a050-8393f9edce76		kujti		meu cunhado		c2c278a5-3899-480e-9be8-bb73aab7cbb5
+#
+49	my husband	2014-04-07T18:26:28Z	2014-04-20T01:02:53Z	my husband	taší	24fc7799-bf73-427a-851b-edec99dc13d4	trz	trz	taxi _24fc7799-bf73-427a-851b-edec99dc13d4		taxi 		meu marido		2e0b7c5e-dc2c-45b0-a877-b1ea869728e6
+#
+104	my mother in law	2014-04-07T18:45:04Z	2014-12-07T17:43:59Z	my mother in law	miyapį́	593d6584-d1fa-42bf-9340-9126442b36b8	trz	trz	majapi&apos;_593d6584-d1fa-42bf-9340-9126442b36b8		majapi'		minha sogra		4d34ec01-4706-4a0f-a584-25b09f612216" order="1
+#
+232	my name	2014-04-07T19:21:02Z	2014-04-20T01:02:11Z	my name	vití	d2af2d44-4fdd-4953-afcd-0cde97879c82	trz	trz	viti2_d2af2d44-4fdd-4953-afcd-0cde97879c82	2	viti		meu nome		4f625f0c-7bb2-4c82-9498-7a109d566bea
+#
+99	my nephew	2014-04-07T18:24:41Z	2014-04-20T01:01:55Z	my nephew	pikurató	540b2ea3-015e-4464-bb47-f57eb30f1a6c	trz	trz	pikurato_540b2ea3-015e-4464-bb47-f57eb30f1a6c		pikurato		meu sobrinho		e64dc961-1c4a-4ba9-b8fd-9e32b6558f1a
+#
+84	my niece	2014-04-07T18:19:41Z	2014-12-07T17:40:54Z	my niece	ivin	49893501-864e-4241-80ce-8f4ae01b2028	trz	trz	ivin_49893501-864e-4241-80ce-8f4ae01b2028		ivin		minha sobrinha		605df6df-ef62-4dc1-b866-8d4e4b498d87" order="1
+#
+66	my nose	2014-04-22T16:44:31Z	2014-04-22T16:45:22Z	my nose	uru	390dcb01-ffa1-4799-8cfb-0a7d4b2e1998	trz	en	uru_390dcb01-ffa1-4799-8cfb-0a7d4b2e1998		uru		meu nariz		edbd7d11-6f09-46e3-8026-844d7a905ebc
+#
+20	my older brother	2014-04-07T18:12:04Z	2014-04-20T01:01:15Z	my older brother	ayí	0c9cf005-b5ed-4ee2-a4e0-52608ef1583f	trz	trz	aji_0c9cf005-b5ed-4ee2-a4e0-52608ef1583f		aji		meu irmão maior 		85d0dcce-999d-4cda-889d-48f571b92c25
+#
+148	my older sister	2014-04-07T18:16:42Z	2014-04-20T01:01:08Z	my older sister	įwé̩	83104e57-5766-4942-a4c1-53b73f3390a4	trz	trz	i&apos;we&apos;_83104e57-5766-4942-a4c1-53b73f3390a4		i'we'		minha irmã maior		e7bc16ab-be59-42ba-a47f-981ad5eca28e
+#
+4	my uncle	2014-04-07T18:23:25Z	2014-04-20T01:00:57Z	my uncle	aho̠	05452d45-8f71-4ce8-8e2b-d4039da3cda0	trz	trz	aho_05452d45-8f71-4ce8-8e2b-d4039da3cda0		aho		meu tio		5bb78f97-02a3-4d78-9bf1-b5cd7547d5e2
+#
+140	my wife	2014-04-24T15:41:15Z	2014-04-24T15:41:32Z	my wife	nyasí	76c6157f-3563-4063-8dd4-5f3e27b37205	trz	en	njasi_76c6157f-3563-4063-8dd4-5f3e27b37205		njasi		minha esposa		0717367b-311e-4156-8b27-b77b52630cb5
+#
+42	my younger brother	2014-04-07T18:14:19Z	2014-04-20T00:59:47Z	my younger brother	atídn	1a9630f7-4f6f-461a-b0c7-1139d37cf181	trz	trz	atin_1a9630f7-4f6f-461a-b0c7-1139d37cf181		atin		meu irmão menor		e3d89209-2c6a-4381-8b49-55f51941eba0
+#
+144	my younger sister	2014-04-07T18:18:20Z	2014-04-20T00:59:40Z	my younger sister	anín	7de8bcd8-d2d3-46d4-9c70-9bf3c620666d	trz	trz	anin_7de8bcd8-d2d3-46d4-9c70-9bf3c620666d		anin		minha irmã menor		b8610df6-4257-4f15-afcb-73be8af73650
+#
+50	nail	2014-04-06T15:58:13Z	2014-04-20T00:58:59Z	nail	pesoró	25b67a2b-2a38-4b5f-8fe2-60105e158576	trz	trz	pesoro_25b67a2b-2a38-4b5f-8fe2-60105e158576		pesoro		unha		7206e783-9034-4ec3-ad00-0fa8957fb006
+#
+71	neck	2014-04-06T16:31:32Z	2014-04-20T00:58:35Z	neck	taypatam	4020d637-b89c-4874-ace7-89315fe06404	trz	trz	tajpatam_4020d637-b89c-4874-ace7-89315fe06404		tajpatam		pescoço		e5eea01e-30b3-4474-adbf-9864124f9a47
+81	neck	2014-04-23T13:50:57Z	2014-04-23T13:51:17Z	neck	patamá	470b4625-b549-4785-8559-225b35b16a90	trz	en	patama_470b4625-b549-4785-8559-225b35b16a90		patama		pescoço		5eb8ec19-b0cb-41f4-85c1-9de5149066cc
+#
+145	network	2014-04-06T20:16:38Z	2014-04-20T00:58:04Z	network	šiat	7fd7a39c-8d04-4403-aa5e-19799510e7ae	trz	trz	xiat_7fd7a39c-8d04-4403-aa5e-19799510e7ae		xiat		rede		009bf0f3-ca53-4968-984a-359f31f5112c
+#
+78	night	2014-04-06T19:53:43Z	2014-04-20T00:57:47Z	night	įysíbm	465c5795-8f16-49d5-99e2-56ef05371fb0	trz	trz	i&apos;jsim_465c5795-8f16-49d5-99e2-56ef05371fb0		i'jsim		noite		15d28af2-e7ea-439f-a1b1-093ef003a2b4
+#
+109	nobody	2014-04-28T14:46:23Z	2014-04-28T14:46:55Z	nobody	kāadnu	5b708f2a-13ee-4a1b-bc10-7bdf11660340	trz	en	kaanu_5b708f2a-13ee-4a1b-bc10-7bdf11660340		kaanu		ninguém		364a4696-1197-426f-9bfb-93afc48c1387
+#
+92	nose	2014-04-06T14:51:56Z	2014-04-20T00:57:22Z	nose	uy	4d52adb9-c302-4c98-8bb2-a19c33b63b08	pt	trz	uj_4d52adb9-c302-4c98-8bb2-a19c33b63b08		uj		nariz		0bdecb19-d834-4892-ae86-fa6975f67b5f
+#
+16	now	2014-04-26T13:35:06Z	2014-04-26T13:35:45Z	now	perekáy	0acc5994-f514-473c-bd5d-e76801d869ba	trz	en	perekaj_0acc5994-f514-473c-bd5d-e76801d869ba		perekaj		agora		9e3b060f-b9f8-4cc9-996d-bf4ff3f4a82e
+#
+18	oar	2014-04-07T16:35:51Z	2014-04-20T00:56:50Z	oar	hurá	0c22a2e3-eeaa-46b9-b6ee-b509ef28a208	trz	trz	hura_0c22a2e3-eeaa-46b9-b6ee-b509ef28a208		hura		remo		6924e1f2-ba0d-4075-8d50-9979d4570dd6
+#
+108	old 	2014-04-26T13:19:58Z	2014-04-26T13:20:21Z	old 	seratí	5b541338-2867-49b6-a5fa-9d66b518162f	trz	en	serati2_5b541338-2867-49b6-a5fa-9d66b518162f	2	serati		velho		97c966c2-8307-4664-a0bd-26a7260f41a3
+#
+173	old woman 	2014-04-07T17:58:53Z	2014-04-26T13:19:58Z	old woman 	seratí	99554ba9-354a-4adf-bfd7-50438bad57fa	trz	trz	serati1_99554ba9-354a-4adf-bfd7-50438bad57fa	1	serati		velha		5dfbcec7-6fe2-4838-aa9e-f1e2f90edebf" order="1
+#
+39	one	2014-04-25T13:38:20Z	2014-04-25T13:39:09Z	one	kwatádn	18f134ee-e60d-4b69-ad88-a9fd39b52039	trz	en	kwatan_18f134ee-e60d-4b69-ad88-a9fd39b52039		kwatan		um		ac6a3b79-097d-493c-ae0a-743f5080e2c4
+208	one	2014-04-25T13:39:54Z	2014-04-25T13:40:31Z	one	kwatádni	c3b65c9f-c008-406f-a6b5-f48d2e156c0a	trz	en	kwatani_c3b65c9f-c008-406f-a6b5-f48d2e156c0a		kwatani		um		b5eb5c52-ab73-4106-b16f-9bbaf2434c32
+#
+35	otter	2014-04-07T19:47:49Z	2014-04-20T00:56:08Z	otter	yuruarám	165efe1e-2d33-4302-8fc7-5105acb18cd4	trz	trz	juruaram_165efe1e-2d33-4302-8fc7-5105acb18cd4		juruaram		lontra		96dae7b9-5b13-4dc6-b853-e5cb4b37f839
+#
+118	ounce	2014-04-07T19:47:03Z	2014-04-20T00:55:57Z	ounce	wakán	64736731-556e-4b75-aeac-203faf2c736c	trz	trz	wakan_64736731-556e-4b75-aeac-203faf2c736c		wakan		onça		b34c6666-33f1-4bb7-b57b-3a791f10e1a4
+#
+235	paca	2014-04-07T19:40:45Z	2014-04-20T00:55:45Z	paca	mįkóp	d666a01a-f9a1-4067-ada5-82c70afb0b0f	trz	trz	mi&apos;kop_d666a01a-f9a1-4067-ada5-82c70afb0b0f		mi'kop		paca		7aeb02f9-216a-484f-a104-046f64444d94
+#
+146	pacú	2014-04-08T14:42:59Z	2014-04-20T00:54:52Z	pacú	maviyóp	803431a6-71d9-4d2c-8bb3-f28bfc32e3b3	trz	trz	mavijop_803431a6-71d9-4d2c-8bb3-f28bfc32e3b3		mavijop		pacú		5d3c0aed-430d-433e-b527-0d5abac1e047
+#
+24	paneiro	2014-04-07T16:51:03Z	2014-04-20T00:54:16Z	paneiro	urusaká	102ff739-b8d2-42bf-8d1d-5a61ea3ad74e	trz	trz	urusaka_102ff739-b8d2-42bf-8d1d-5a61ea3ad74e		urusaka		paneiro		13b5e757-15ea-4d92-aaea-f2ee99493b0f
+#
+135	parrot	2014-04-08T13:31:42Z	2014-04-20T00:53:26Z	parrot	avuró	73198487-84d4-468b-b64b-47dbf9d586cd	trz	trz	avuro_73198487-84d4-468b-b64b-47dbf9d586cd		avuro		papagaio		28962d1d-8fd3-4754-9334-5548272b72fd
+#
+230	path	2014-04-06T21:09:54Z	2014-04-20T00:53:01Z	path	waná	d2921b18-d288-497a-80a4-3532a69edf6e	trz	trz	wana_d2921b18-d288-497a-80a4-3532a69edf6e		wana		caminho		30bc0690-c479-4117-b6c5-10a35bcf7755
+#
+13	paujil	2014-04-08T13:55:55Z	2014-04-20T00:52:34Z	paujil	otín	093ce644-2d5f-422f-9220-4eafd43efbba	trz	trz	otin_093ce644-2d5f-422f-9220-4eafd43efbba		otin		mutum		b8ef4204-2083-42e5-84b9-17f343a6a3ed
+#
+105	peccary pig	2014-04-07T19:37:51Z	2014-04-20T00:52:11Z	peccary pig	kawįrḗ	59729188-8bb4-4356-997c-c4e9595f4ac5	trz	trz	kawi&apos;re_59729188-8bb4-4356-997c-c4e9595f4ac5		kawi're		porco queixada		e04daf00-f326-42c4-b292-823fd0ad280c
+#
+197	penelope	2014-04-08T13:34:46Z	2014-04-20T00:51:38Z	penelope	trantrán	bb883f33-5a0b-4fae-9d89-223067dbf301	trz	trz	trantran_bb883f33-5a0b-4fae-9d89-223067dbf301		trantran		jacú		802047a3-0021-4c90-9ba8-d7b8f93675fc
+#
+251	penis	2014-04-06T15:46:01Z	2014-04-20T00:51:11Z	penis	ču̥šó	e5ca9eed-cf70-41fc-b009-6fe35609f23e	trz	trz	txyxo_e5ca9eed-cf70-41fc-b009-6fe35609f23e		txyxo		penis		59094e18-06dc-4730-868f-59d0020b0dda
+#
+175	people	2014-04-07T17:04:51Z	2014-04-20T00:50:36Z	people	wati	9b0fe3bf-b24f-4563-8242-13a2286af848	trz	trz	wati_9b0fe3bf-b24f-4563-8242-13a2286af848		wati		gente		e7817ba5-3cde-4496-8c1d-26fd24e2e273
+#
+169	pepper	2014-04-08T15:38:47Z	2014-04-20T00:49:55Z	pepper	oó	97eef14a-abc2-485d-8933-ddfe37b28c6c	trz	trz	oo_97eef14a-abc2-485d-8933-ddfe37b28c6c		oo		pimenta		2b849a22-3fb7-4c1d-99d6-f5fa687277f1
+#
+205	piranha	2014-04-08T14:43:47Z	2014-04-20T00:49:05Z	piranha	tuábm	c2e8bdd9-658a-40f2-95bc-34ddb9595621	trz	trz	tuam_c2e8bdd9-658a-40f2-95bc-34ddb9595621		tuam		piranha		79fdbbe1-a92f-40c1-98c4-13b8317b7229
+#
+227	pleiade	2014-04-06T17:07:45Z	2014-04-20T00:48:28Z	pleiade	mu̥ru̥hu̥rawī̄́d	d1bba58d-ae3e-4312-8fb7-e174379ec852	trz	trz	myryhyrawid_d1bba58d-ae3e-4312-8fb7-e174379ec852		myryhyrawid		pleiade		99cc9604-3c9c-4627-84e6-08962bd3262b
+#
+243	pot	2014-04-07T16:32:10Z	2014-04-20T00:48:07Z	pot	čimukún	df5aa51c-c8b3-4e53-916a-d7f8e9222e39	trz	trz	tximukun_df5aa51c-c8b3-4e53-916a-d7f8e9222e39		tximukun		panela		9f2a9afa-d90b-47a6-ba2a-8e69882b936e
+#
+82	potato	2014-04-08T15:11:43Z	2014-04-20T00:47:10Z	potato	u̥rutirimán	47abbbe6-96d8-4ef1-a971-be285ff116bb	trz	trz	yrutiriman_47abbbe6-96d8-4ef1-a971-be285ff116bb		yrutiriman		batata		d6546ae7-d7ec-4e26-8074-3ea498252cd5
+#
+79	rain	2014-04-06T16:56:36Z	2014-04-20T00:46:42Z	rain	kom	4693d20e-a062-4c76-9cc9-c1fe5a39aebf	trz	trz	kom1_4693d20e-a062-4c76-9cc9-c1fe5a39aebf	1	kom		chuva		e93609b9-e1ae-4f24-bbeb-7596d5c17568
+#
+138	rainbow	2014-04-06T16:57:34Z	2014-04-20T00:46:27Z	rainbow	turisįkám	762f9abe-5467-412f-9cfb-bb81d8521b9f	trz	trz	turisi&apos;kam_762f9abe-5467-412f-9cfb-bb81d8521b9f		turisi'kam		arco-íris		38a6103f-5add-48fb-9d08-f57bcb6e836e
+#
+167	ray	2014-04-08T14:52:30Z	2014-04-20T00:45:56Z	ray	tanapá	96ec8c21-d4c5-4bc8-9d92-53e7dc1ad01d	trz	trz	tanapa_96ec8c21-d4c5-4bc8-9d92-53e7dc1ad01d		tanapa		arraia		e81c8643-f2dd-44a3-af77-afe7a51650b9
+#
+129	red	2014-04-25T14:22:12Z	2014-04-25T14:23:02Z	red	mëmnu̥	6e42045e-c8fa-4f7a-917b-d30c9524e826	trz	en	memnu_6e42045e-c8fa-4f7a-917b-d30c9524e826		memnu		vermelho		2e5b6e52-9713-4a0d-8530-237936785656
+#
+126	red macaw	2014-04-08T13:54:15Z	2014-04-20T00:45:37Z	red macaw	tramį́n	6dc1f5cb-1858-4762-9d5c-6e5a2c383365	trz	trz	trami&apos;n_6dc1f5cb-1858-4762-9d5c-6e5a2c383365		trami'n		arára vermelho		ddbf7a8b-d36f-4f1c-b46d-5e91f48f06da
+#
+218	rum	2014-04-07T17:00:24Z	2014-04-20T00:28:56Z	rum	kawĩ	cab213b0-9390-48d5-a7b4-8730a87e7860	trz	trz	kawĩ_cab213b0-9390-48d5-a7b4-8730a87e7860		kawĩ		cachaça		fefddfce-1abc-4bf1-87fe-4e070ed71b81
+#
+36	sand	2014-04-06T20:03:04Z	2014-04-20T00:28:16Z	sand	mįymáī	16a566f3-21c1-4bb3-a210-a46760748d0c	trz	trz	mi&apos;jmaɳ_16a566f3-21c1-4bb3-a210-a46760748d0c		mi'jmaɳ		areia		7a583b86-a10d-484b-93c2-441e22c213b2
+#
+3	scrotum	2014-04-06T16:35:50Z	2014-04-20T00:27:34Z	scrotum	tu̥ku̥pįdni	046628db-58ea-46d5-9522-ea903228fd2d	trz	trz	tykypi&apos;ni_046628db-58ea-46d5-9522-ea903228fd2d		tykypi'ni		escroto		0a045a32-21c4-4e87-911b-16632a42ff01
+#
+43	shadow	2014-04-07T19:25:49Z	2014-12-07T17:57:52Z	shadow	wo̠rako̠sįnu̥n	1e88ba29-26b6-49c8-90a8-1392ff3fafd5	trz	trz	worakosi&apos;nyn_1e88ba29-26b6-49c8-90a8-1392ff3fafd5		worakosi'nyn		sombra		168b7017-fb1a-499d-be77-576bcd89c3b0" order="1
+#
+273	she	2014-04-28T14:18:27Z	2014-04-28T14:18:48Z	she	warikam	fa204819-47af-42a6-83a8-0961a19ad703	trz	en	warikam_fa204819-47af-42a6-83a8-0961a19ad703		warikam		ela		225ba6fe-fdb5-4bc2-be75-ddc5a01e32d3
+#
+15	shin	2014-04-22T17:44:45Z	2014-04-22T17:45:35Z	shin	kazi̩má̃	0a716998-226b-43f5-bd49-e178013efc3c	trz	en	kazi&apos;ma_0a716998-226b-43f5-bd49-e178013efc3c		kazi'ma		canela		0d2d9173-f7ec-4776-a3e1-37da76051739
+267	shin	2014-04-06T15:53:52Z	2014-04-20T00:25:12Z	shin	ataykazįbm	f5a217af-69b1-42b6-ae85-770cce299d79	trz	trz	atajkazi&apos;m_f5a217af-69b1-42b6-ae85-770cce299d79		atajkazi'm		canela		01d23d88-1da5-426d-adec-f19ae14cab55
+#
+51	shoulder	2014-04-06T16:26:57Z	2014-04-20T00:23:07Z	shoulder	pįtaribm	272428b2-162f-4ad1-a6f7-46c53031a2bd	trz	trz	pi&apos;tarim_272428b2-162f-4ad1-a6f7-46c53031a2bd		pi'tarim		ombro		a48ace6d-7466-4790-b284-3e434d5062b4
+#
+90	sieve	2014-04-06T21:30:31Z	2014-04-20T00:22:47Z	sieve	manarí	4c8be986-3d50-427a-b52e-df594dfd04d1	trz	trz	manari_4c8be986-3d50-427a-b52e-df594dfd04d1		manari		peneira		f9fbc9ac-a0c3-4029-be06-eee1e9e76f2b
+#
+160	skin	2014-04-06T16:34:28Z	2014-04-20T00:22:06Z	skin	tupará	8c6b6fae-2f41-4f70-8f55-30b36f66d487	trz	trz	tupara_8c6b6fae-2f41-4f70-8f55-30b36f66d487		tupara		pele		8a291b9a-eedb-46bb-8ddb-1d0ca3a4db71
+#
+133	sky	2014-04-06T16:51:52Z	2014-04-20T00:21:46Z	sky	awįn	71b32f1d-7700-44f7-bc64-cb5cab193463	trz	trz	awi&apos;n_71b32f1d-7700-44f7-bc64-cb5cab193463		awi'n		céu		cc562c86-84b4-407b-bfef-a0fcc19f8cbe
+#
+62	small	2014-04-26T13:14:13Z	2014-04-26T13:15:29Z	small	nyaečidn	34e1428a-f8dc-40dd-b7de-50f5da82ca3c	trz	en	ɲaetxin_34e1428a-f8dc-40dd-b7de-50f5da82ca3c		ɲaetxin		pequeno		4487f0b3-a9b4-444d-96e0-373fab42bdc6
+#
+245	smoke	2014-04-06T19:59:18Z	2014-04-20T00:21:04Z	smoke	iwį́	e15aba75-d576-4b42-a304-781468da71cc	trz	trz	iwi&apos;_e15aba75-d576-4b42-a304-781468da71cc		iwi'		fumaça		07c0c128-14d1-4ff7-8217-64ee22403408
+#
+233	snake	2014-04-08T14:04:08Z	2014-04-19T22:57:39Z	snake	karakáu	d2b7d2a0-4bd8-49a9-ab8c-5a5ac729600c	trz	trz	karakaw_d2b7d2a0-4bd8-49a9-ab8c-5a5ac729600c		karakaw		cobra		d6967b27-958d-44ff-88f1-ef94cc11a9a3
+#
+176	song	2014-04-07T19:28:46Z	2014-04-19T22:56:28Z	song	tikayára	9b6058ed-f8f3-4f74-9eb2-68efb059945d	trz	trz	tikajára_9b6058ed-f8f3-4f74-9eb2-68efb059945d		tikajára		cantiga		902d0066-8d52-4936-bd3f-bc9a9685d53a
+#
+45	sparrow-hawk	2014-04-08T14:01:47Z	2014-04-19T22:55:56Z	sparrow-hawk	wurįmún	2207136d-af85-4832-b61b-af9021778b05	trz	trz	wuri&apos;mun_2207136d-af85-4832-b61b-af9021778b05		wuri'mun		gavião		c5784a2b-7dfa-456e-b4d9-3cc6f39e2c78
+#
+214	spectrum	2014-04-07T19:13:03Z	2014-12-07T17:43:32Z	spectrum	ku̥numái	c6ecd21b-4634-4663-a967-c8ceb73cf968	trz	trz	kynumái_c6ecd21b-4634-4663-a967-c8ceb73cf968		kynumái		espectro		5fb5fb7e-4ac6-41f8-8c6d-24d42ae65ed4" order="1
+#
+254	spider monkey	2014-04-07T19:45:09Z	2014-04-19T22:53:42Z	spider monkey	warám	e769fa8a-a3d4-47f3-9af8-1974f7bbc7ec	trz	trz	waram_e769fa8a-a3d4-47f3-9af8-1974f7bbc7ec		waram		coatá		714bca0d-9eb3-41d0-a290-96ea7763afe3
+#
+242	star	2014-04-06T16:59:20Z	2014-04-19T22:53:13Z	star	pipiyó	def562b8-d264-403e-a9ea-a50e613d55ed	trz	trz	pipijo_def562b8-d264-403e-a9ea-a50e613d55ed		pipijo		estrela		feee37b4-62e1-4209-84a6-f0d2585013a1
+#
+263	stick	2014-04-08T15:05:20Z	2014-04-19T22:51:51Z	stick	paná	efe6590a-5c3a-489d-ae1c-454f58c2c956	trz	trz	pana_efe6590a-5c3a-489d-ae1c-454f58c2c956		pana		pau		5f861650-1253-4f41-a217-acfed4d61afa
+#
+94	stilt	2014-04-08T15:00:22Z	2014-04-19T22:49:11Z	stilt	kiviyá̩m	4ec97927-6fad-420e-9bf9-f7717439ca98	trz	trz	kivija&apos;m_4ec97927-6fad-420e-9bf9-f7717439ca98		kivija'm		carapanã		b2da86ec-6600-49c5-9528-db83aa8d7ad6
+#
+33	stone	2014-04-06T19:43:15Z	2014-04-19T22:48:29Z	stone	pįkún	15a5539d-e5e3-4912-b794-fd7ff9884019	trz	trz	pi&apos;kun_15a5539d-e5e3-4912-b794-fd7ff9884019		pi'kun		pedra		61e21229-4e7f-4f5a-9952-38c17f570305
+#
+196	sun	2014-04-06T16:58:43Z	2014-04-19T22:48:06Z	sun	apįtó	b7c2cb69-5a68-4cf4-9b36-c8453f7cf59f	trz	trz	api&apos;to_b7c2cb69-5a68-4cf4-9b36-c8453f7cf59f		api'to		sol		5bd93a5f-9ee9-447f-a0c5-8340c6e374c3
+#
+244	tapir	2014-04-07T19:39:20Z	2014-04-19T22:47:40Z	tapir	imín	e1097de0-aaf0-473b-acea-89618e2b914d	trz	trz	imin_e1097de0-aaf0-473b-acea-89618e2b914d		imin		anta		37bc4922-df83-47e5-8262-caba32f2f459
+#
+80	termite	2014-04-08T15:02:52Z	2014-04-19T22:47:18Z	termite	papakį́	46fb60b9-1713-4509-af5d-ca5cbc32f5e0	trz	trz	papaki&apos;_46fb60b9-1713-4509-af5d-ca5cbc32f5e0		papaki'		cupim		19a30fcd-3ac9-440e-91f3-75b96bd9782b
+#
+152	the other was	2014-04-28T14:26:48Z	2014-12-07T17:42:51Z	the other was	kwā	86edadde-a528-4ab4-9f7b-650514f5177f	trz	en	kwa_86edadde-a528-4ab4-9f7b-650514f5177f		kwa		foi o outro		f93e95f3-9b19-44ca-a3c5-abd86d472fd6" order="1
+#
+223	there	2014-04-26T13:36:24Z	2014-04-26T13:36:49Z	there	anyakáy	cf0c421d-b70b-42c4-a730-84c196ae08ef	trz	en	anjakaj_cf0c421d-b70b-42c4-a730-84c196ae08ef		anjakaj		lá		8386ff34-c05b-4044-aaa5-1504bd8c3d67
+#
+184	they	2014-04-28T14:22:09Z	2014-04-28T14:22:31Z	they	wariko bap	a97db84d-3316-44e5-b8ac-2d823aacc588	trz	en	wariko bap_a97db84d-3316-44e5-b8ac-2d823aacc588		wariko bap		eles		8a684505-bf44-47af-88bb-a0c04830b38e
+#
+116	thigh	2014-04-23T13:54:59Z	2014-04-23T13:56:04Z	thigh	hukú	5fedba21-5a38-4c86-bf39-c5dd0281c150	trz	en	huku_5fedba21-5a38-4c86-bf39-c5dd0281c150		huku		coxa		bb0108c6-cddb-4901-a4aa-70fafeebd103
+252	thigh	2014-04-06T16:38:53Z	2014-04-19T22:46:24Z	thigh	hok	e5d12f86-0cd8-48e6-afc4-13c44d67e05d	trz	trz	hok_e5d12f86-0cd8-48e6-afc4-13c44d67e05d		hok		coxa		5b02c492-8d1d-482d-990f-e342a85d5b56
+#
+142	this one	2014-04-28T14:29:50Z	2014-04-28T14:30:07Z	this one	ja	7bffe496-ab2f-4176-ac42-e2e7a4698021	trz	en	ja_7bffe496-ab2f-4176-ac42-e2e7a4698021		ja		este		e98c531e-ae37-4b5f-8939-83034b9e8800
+163	this one	2014-04-28T14:29:09Z	2014-04-28T14:29:25Z	this one	kā	8f520b7e-fd0f-440a-9e42-8d5bc67efc1f	trz	en	ka_8f520b7e-fd0f-440a-9e42-8d5bc67efc1f		ka		este		2674ebaf-f254-45d3-8b18-e933dcb6cd93
+209	this one	2014-04-28T14:28:25Z	2014-04-28T14:28:40Z	this one		c3f6a52c-07ae-4d34-b131-8d16172399ef	trz		okaj_c3f6a52c-07ae-4d34-b131-8d16172399ef		okaj		este		b22ca962-5236-4de6-b9e7-10275e295a4a
+#
+54	this was 	2014-04-28T14:31:11Z	2014-04-28T14:31:25Z	this was 	kuri	299c8509-dff9-4c72-ba90-b4c85052079c	trz	en	kuri_299c8509-dff9-4c72-ba90-b4c85052079c		kuri		foi este/esta		ee6e686f-ddf5-4251-986b-3f13e68a0e95
+#
+111	thread	2014-04-07T16:39:49Z	2014-04-19T22:41:18Z	thread	mubtó	5c6c1a5f-70c1-4466-9fa9-7dd2cd9e7f9d	trz	trz	mubto_5c6c1a5f-70c1-4466-9fa9-7dd2cd9e7f9d		mubto		fio		af61d134-71a4-485c-8b9e-b87bc0b7f97b
+268	thread	2014-04-07T16:40:51Z	2014-04-19T22:40:57Z	thread	u̥bm	f5f1d556-13ab-4fe6-99fe-236618c2ff28	trz	trz	ym_f5f1d556-13ab-4fe6-99fe-236618c2ff28		ym		fio		d15359db-51c5-4c2e-9980-e18b4bc71312
+#
+271	thunder	2014-04-06T19:49:31Z	2014-09-10T16:53:51Z	thunder	sipe̩kudn	f8a7bdc7-0695-49a2-897b-d573e32b1fce	trz	trz	sipe&apos;kun_f8a7bdc7-0695-49a2-897b-d573e32b1fce		sipe'kun		trovão		f3b4c515-9312-47f3-a80c-69b226b80e16" order="1
+#
+229	tiger fish	2014-04-08T14:44:59Z	2014-04-19T22:36:22Z	tiger fish	tikídn	d234eab9-a0d4-405a-9fcb-a919e8aaf36a	trz	trz	tikin_d234eab9-a0d4-405a-9fcb-a919e8aaf36a		tikin		trahira		701f485d-62d5-42f5-867c-0377b4ffaabd
+#
+48	timbó	2014-04-08T15:58:50Z	2014-04-19T22:35:50Z	timbó	kuyimé̄	248e940f-41ab-4e86-80d2-09785c8c283c	trz	trz	kujime_248e940f-41ab-4e86-80d2-09785c8c283c		kujime		timbó		c11c0eb5-e651-427e-a786-892b3a489751
+#
+182	tipity	2014-04-07T16:53:30Z	2014-04-19T22:33:03Z	tipity	tipití	a4170d1e-45a0-42f3-949f-a3cca784ff69	trz	trz	tipiti_a4170d1e-45a0-42f3-949f-a3cca784ff69		tipiti		tipity		553f9334-d8a2-472a-adcb-f8621a11fb42
+#
+114	tobacco	2014-04-08T15:07:36Z	2014-04-19T22:31:57Z	tobacco	yuwé̩	5f2c15f8-85cc-4498-a190-4b2c2b3bf326	trz	trz	juwe&apos;_5f2c15f8-85cc-4498-a190-4b2c2b3bf326		juwe'		tabaco		7bd05f9f-0ea9-43bc-b030-317be7e6ea10
+#
+266	today	2014-04-26T13:29:17Z	2014-04-26T13:30:14Z	today	panáī	f3ae536b-9be3-4be1-89c2-ee0c209c9cca	trz	en	panaj_f3ae536b-9be3-4be1-89c2-ee0c209c9cca		panaj		hoje		df015e20-0a56-498f-9d89-ae24d2d7f25c
+#
+259	toe	2014-04-06T16:46:52Z	2014-04-19T22:30:55Z	toe	atayšinyat	ec3f61f2-ebea-4a8c-86c9-71cd6256c2f6	trz	trz	atajxinjat_ec3f61f2-ebea-4a8c-86c9-71cd6256c2f6		atajxinjat		dedo do pé		13fce463-32f6-4a5d-b17e-451f84885bcd
+#
+189	tomorrow	2014-04-26T13:30:53Z	2014-04-26T13:32:06Z	tomorrow		b1d88a3f-c753-40ef-ba2e-9004fad3b699	trz		tyanati_b1d88a3f-c753-40ef-ba2e-9004fad3b699		tyanati		amanhã		e928697c-6c48-4ba3-bb8d-2665db328558
+#
+67	tongue	2014-04-06T14:48:23Z	2014-04-19T22:30:08Z	tongue	kapiak	3982578a-150e-4d01-9585-ee9f02432db2	pt	trz	kapiak_3982578a-150e-4d01-9585-ee9f02432db2		kapiak		língua		a5883ec8-28d0-4837-82df-f4ff46760aa2
+#
+139	tooth	2014-04-06T16:04:43Z	2014-04-19T22:29:37Z	tooth	yat	76c08eab-7fab-4492-9520-d95d0e4fced9	trz	trz	jat_76c08eab-7fab-4492-9520-d95d0e4fced9		jat		dente		acaa2956-50dc-4fe8-b484-eade26d3ceed
+#
+74	tucumã	2014-04-08T15:54:13Z	2014-04-19T22:27:57Z	tucumã	uwáu	41c53009-7a37-49b1-a7d8-12e39332dacd	trz	trz	uwaw_41c53009-7a37-49b1-a7d8-12e39332dacd		uwaw		tucumã		53026c31-a2d7-41fd-9e65-058d0090c4ab
+#
+221	turtle	2014-04-08T14:34:47Z	2014-04-19T22:27:34Z	turtle	tu̥á	cdff2c14-8c8d-4906-ba79-daec79c3d253	trz	trz	tya_cdff2c14-8c8d-4906-ba79-daec79c3d253		tya		tartaruga		8e0841ee-1dda-4bc4-ae0a-9fe4d0ce0f36
+#
+237	two	2014-04-25T13:42:21Z	2014-04-25T13:43:18Z	two	ku̥radni	d937f20d-559a-49f9-b9d9-108f285a1538	trz	en	kyrani_d937f20d-559a-49f9-b9d9-108f285a1538		kyrani		dois		9fc42293-b01b-4397-a19a-20d2e5276577
+#
+203	under	2014-04-26T13:54:02Z	2014-04-26T13:54:58Z	under	ważí	c120d74a-4339-43d4-9c71-95126e333316	trz	en	wazi_c120d74a-4339-43d4-9c71-95126e333316		wazi		embaixo		c5ad1002-77bc-4b5d-92cd-b3a0e61ceab7
+#
+40	vulture	2014-04-08T13:30:01Z	2014-04-19T22:22:15Z	vulture	sįmu̥	195b467b-e1bd-40a6-abb2-97a39d775fa3	trz	trz	si&apos;my_195b467b-e1bd-40a6-abb2-97a39d775fa3		si'my		urubu		ebfcfae4-0019-47fe-9e49-c3eaefe206f7
+#
+115	vulva	2014-04-06T15:47:43Z	2014-04-19T22:21:36Z	vulva	miripí	5f94a73d-f3b2-4a81-9c71-86e309b665f7	trz	trz	miripi_5f94a73d-f3b2-4a81-9c71-86e309b665f7		miripi		vulva		1e45ea2f-3bdc-4cca-8c0e-f569ebeb1a49
+#
+157	wasp	2014-04-08T14:57:13Z	2014-04-19T22:15:46Z	wasp	įwįrį́	8b36a5dc-73be-44f1-968b-642511dd45fa	trz	trz	i&apos;wi&apos;ri&apos;_8b36a5dc-73be-44f1-968b-642511dd45fa		i'wi'ri'		vespa		1931e5dc-8856-4e5f-b856-538f2223e11a
+#
+134	water	2014-04-06T19:45:38Z	2014-04-19T22:12:02Z	water	kom	72493ce7-3975-48c1-a093-77e64d3b3b9a	trz	trz	kom2_72493ce7-3975-48c1-a093-77e64d3b3b9a	2	kom		agua		be9f115f-918b-4bd0-9558-d4a2bdc85ea5
+#
+91	we (exclusive)	2014-04-28T14:20:13Z	2014-04-28T14:20:26Z	we (exclusive)	ati	4c987fa0-4e00-400b-8a81-f591f3a6583a	trz	en	ati_4c987fa0-4e00-400b-8a81-f591f3a6583a		ati		nós (exclusivo)		373a783e-1625-4f2f-b640-6535b79e6d79
+#
+276	we (inclusive)	2014-04-28T14:19:30Z	2014-04-28T14:19:44Z	we (inclusive)	wazati	fd22cde6-1dc6-45a5-87ff-3b2239bf3f6e	trz	en	wazati_fd22cde6-1dc6-45a5-87ff-3b2239bf3f6e		wazati		nós (inclusivo)		1f4cee9e-764c-44df-8467-4bb233a3c3dc
+#
+113	what is?	2014-04-28T15:01:35Z	2014-04-28T15:03:10Z	what is?	teakay	5ce1c44b-4dc6-4421-878a-89763434e892	trz	en	teakaj_5ce1c44b-4dc6-4421-878a-89763434e892		teakaj		o quê é?		643551a6-fee8-4f5e-abb9-d42f4c87576f
+#
+87	white	2014-04-07T17:35:16Z	2014-04-19T22:10:08Z	white	ure̩tí	4b4eecd3-b029-45fd-baff-7e63b1292934	trz	trz	ure&apos;ti_4b4eecd3-b029-45fd-baff-7e63b1292934		ure'ti		branco		99690513-3cc0-43c5-b53b-1cf318e26def
+277	white	2014-04-25T14:11:24Z	2014-04-25T14:13:04Z	white	wuri̩katí	fdf36452-6f7a-4a88-9b04-6419b9c761f8	trz	en	wuri&apos;kati_fdf36452-6f7a-4a88-9b04-6419b9c761f8		wuri'kati		branco		d650a77a-a63d-487c-b70b-f0d071587bef
+#
+46	who is?	2014-04-28T14:47:35Z	2014-04-28T14:48:17Z	who is?	teokay	22803b5f-a7ca-4d93-8830-989fcabb58a8	trz	en	teokaj_22803b5f-a7ca-4d93-8830-989fcabb58a8		teokaj		quem é?		fd820a63-7740-4ce1-a54e-51bba15e30df
+#
+17	wild boar	2014-04-08T13:22:44Z	2014-04-19T22:01:54Z	wild boar	tukawádn	0b7fe182-b0e7-4df3-827c-fc60846a0554	trz	trz	tukawan_0b7fe182-b0e7-4df3-827c-fc60846a0554		tukawan		caitetú		6135a45e-b3b4-44b3-a6b0-b9053687f90e
+#
+168	wind	2014-04-06T19:48:08Z	2014-04-19T21:39:23Z	wind	pahu̥zį́	971e1ee1-a1a6-45c1-bb41-aca537e2767c	trz	trz	pahyzi&apos;_971e1ee1-a1a6-45c1-bb41-aca537e2767c		pahyzi'		vento		6cf062e7-b81b-4114-9507-e7f1e8ff357a
+#
+274	woman	2014-04-24T15:10:37Z	2014-04-24T15:10:47Z	woman		faad0836-849d-42b5-8817-abaf4fdf4cf1	trz		njankami&apos;n_faad0836-849d-42b5-8817-abaf4fdf4cf1		njankami'n		mulher		85cb0395-a1a4-47ac-9e1b-734ac28e88f8
+#
+127	woman 	2014-04-24T15:08:38Z	2014-04-24T15:09:21Z	woman 		6ddd0882-3b90-4099-871c-95048e6025fd	trz		nakami&apos;n_6ddd0882-3b90-4099-871c-95048e6025fd		nakami'n		mulher		079dcdb7-3bd9-4a2f-a520-37ec1f4483e5
+#
+12	yesterday	2014-04-26T13:33:32Z	2014-04-26T13:34:32Z	yesterday	pi̩sí̩bm	07f882f3-49e5-4add-89a6-178b8dac9259	trz	en	pi&apos;si&apos;m_07f882f3-49e5-4add-89a6-178b8dac9259		pi'si'm		ontem		d3e60de8-fca2-4141-b6d9-9a0b1a7bb838
+#
+27	you	2014-04-28T14:21:00Z	2014-04-28T14:21:31Z	you	wi̩hú 	11c4bc00-9d1e-47fa-bd2c-59f68252f49f	trz	en	wi&apos;hu_11c4bc00-9d1e-47fa-bd2c-59f68252f49f		wi'hu		vos		bb3f444b-8398-4bcc-99e2-ca214917802b
+112	you	2014-04-28T14:15:57Z	2014-04-28T14:16:47Z	you	we̩bm	5cdce703-f0ef-426e-8ad8-2cebde0c1843	trz	en	we&apos;m_5cdce703-f0ef-426e-8ad8-2cebde0c1843		we'm		tu		3044393d-f309-4939-8064-e869df2efef5
