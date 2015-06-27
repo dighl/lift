@@ -82,7 +82,8 @@ for meta,entry in entries:
     for sid,sense in senses:
         if 'grammatical-info' in sense:
             pos = re.findall('<grammatical-info value="(.*?)">.*?</grammatical-info>',
-                    sense
+                    sense,
+                    re.DOTALL
                     )
             if not pos:
                 pos = ''
@@ -107,7 +108,7 @@ for meta,entry in entries:
 
     
 
-    tmp['language'] = lng
+    tmp['doculect'] = lng
     tmp['orthography'] = wrd
     tmp['language_in_source'] = lis
     tmp['form_in_source'] = fis
@@ -132,7 +133,7 @@ for k in [i for i in D.keys() if i > 0]:
 with open(argv[1].replace('.lift','.tsv'), 'w') as f:
     
     f.write('ID\t'+'\t'.join([h.upper() for h in D[0]])+'\n')
-    for k in range(1,len(D)):
+    for k in sorted([x for x in D if x > 0]):
         f.write(str(k)+'\t'+'\t'.join(D[k])+'\n')
 
 print("Data was successfully written to file.")
