@@ -1,0 +1,747 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- See https://github.com/sillsdev/lift-standard for more information on the format used here. -->
+<lift producer="SIL.FLEx 8.3.12.43172" version="0.13">
+<header>
+<ranges>
+<range id="dialect" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="etymology" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="grammatical-info" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="lexical-relation" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="note-type" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="paradigm" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="reversal-type" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="semantic-domain-ddp4" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="status" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="users" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="location" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<!-- The following ranges are produced by FieldWorks Language Explorer, and are not part of the LIFT standard. -->
+<range id="anthro-code" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="translation-type" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<!-- The parts of speech are duplicated in another range because derivational affixes require a "From" PartOfSpeech as well as a "To" PartOfSpeech. -->
+<range id="from-part-of-speech" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="morph-type" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="exception-feature" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="inflection-feature" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="inflection-feature-type" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+<range id="do-not-publish-in" href="file://C:/Users/avilacy/Documents/2019/2019.lift-ranges"/>
+</ranges>
+<fields>
+<field tag="cv-pattern">
+<form lang="en"><text>This records the syllable pattern for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="tone">
+<form lang="en"><text>This records the tone information for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="comment">
+<form lang="en"><text>This records a comment (note) in a LexEtymology in FieldWorks.</text></form>
+</field>
+<field tag="import-residue">
+<form lang="en"><text>This records residue left over from importing a standard format file into FieldWorks (or LinguaLinks).</text></form>
+</field>
+<field tag="literal-meaning">
+<form lang="en"><text>This field is used to store a literal meaning of the entry.  Typically, this field is necessary only for a compound or an idiom where the meaning of the whole is different from the sum of its parts.</text></form>
+</field>
+<field tag="summary-definition">
+<form lang="en"><text>A summary definition (located at the entry level in the Entry pane) is a general definition summarizing all the senses of a primary entry. It has no theoretical value; its use is solely pragmatic.</text></form>
+</field>
+<field tag="scientific-name">
+<form lang="en"><text>This field stores the scientific name pertinent to the current sense.</text></form>
+</field>
+<field tag="imagens">
+<form lang="en"><text></text></form>
+<form lang="qaa-x-spec"><text>Class=LexExampleSentence; Type=String; WsSelector=kwsAnal</text></form>
+</field>
+<field tag="New Custom Field">
+<form lang="en"><text></text></form>
+<form lang="qaa-x-spec"><text>Class=LexExampleSentence; Type=String; WsSelector=kwsAnal</text></form>
+</field>
+</fields>
+</header>
+<entry dateCreated="2012-02-17T16:12:17Z" dateModified="2019-04-03T15:33:19Z" id="&apos;a_9e0d944e-2e14-4baf-a1bf-458e6887f42e" guid="9e0d944e-2e14-4baf-a1bf-458e6887f42e">
+<lexical-unit>
+<form lang="skf"><text>ʔa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="root"/>
+<citation>
+<form lang="skf"><text>'a</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>ʔa</text></form>
+</pronunciation>
+<sense id="b5b9f3b8-83a6-4dc9-893d-3142aa24d725">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>fruta</text></gloss>
+<example source="Manoel Ferreira Sakyrabiar, caderno 1">
+<form lang="skf"><text>kuba 'a kit ngwẽrẽp te itoop ikit tẽẽt kõyẽ</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>A fruta da árvore, quando acaba a polpa, fica só a semente.</text></form>
+</translation>
+<note type="reference">
+<form lang="pt"><text>Manoel Ferreira Sakyrabiar, caderno 1</text></form>
+</note>
+</example>
+<example>
+<form lang="skf"><text><span lang="pt">kupkuba 'a i-sãkã sĩit kaat-eri ka te </span><span lang="en"> i</span><span lang="pt">'a se-aoot,</span></text></form>
+<translation type="Literal translation">
+<form lang="pt"><text><span lang="en">arvore fruta-3 galho peq. isso-abl. vir/ir foc </span> 3-fruta 3c-sai</text></form>
+</translation>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<trait name ="semantic-domain-ddp4" value="1 Universe, creation"/>
+<note type="source">
+<form lang="pt"><text>C5:3- AM I ?? ver. vilacy</text></form>
+</note>
+<illustration href="frutas.jpg">
+<label>
+<form lang="pt"><text>Fonte da imagem: google imagens.</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-04-04T19:45:57Z" id="a&apos;i_da4492b0-46de-4051-a94b-5d9fac275ee3" guid="da4492b0-46de-4051-a94b-5d9fac275ee3">
+<lexical-unit>
+<form lang="skf"><text>a'i</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>a'i</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>a.'?i</text></form>
+</pronunciation>
+<sense id="f64fa2fc-5ef5-468d-aaa7-ec074c63d307">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Urtiga</text></gloss>
+<example source="Informantes: Manoel Ferreira Sakurabiara;caderno1-44">
+<form lang="skf"><text> </text></form>
+<note type="reference">
+<form lang="en"><text>Informantes: Manoel Ferreira Sakurabiara;caderno1-44</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<field type="scientific-name">
+<form lang="pt"><text> Fleurya aestuans L.</text></form>
+</field>
+<illustration href="urtiga.jpg">
+<label>
+<form lang="pt"><text>Retirado do site: http://www.achetudoeregiao.com.br/arvores/plantas_toxicas.htm</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T02:21:13Z" id="a&apos;kara_2444e173-f216-401e-b183-7a1b41fb6213" guid="2444e173-f216-401e-b183-7a1b41fb6213">
+<lexical-unit>
+<form lang="skf"><text>aʔkara</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>a'kara</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>aʔ.'ka.ra</text></form>
+</pronunciation>
+<sense id="48cc7461-5750-423e-a9bf-1bebcd21d7d7">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Tucumã</text></gloss>
+<example source="Manoel Sakurabiat; BelÃ©m 10-2005">
+<form lang="skf"><text>a'kara ini piro sete ikubamõ. Saroot te i'a. Toop ikũũpna isepna kaat.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>O tucumã também tem espinho na árvore. A fruta é amarelada. A polpa é doce e amarga.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Manoel Sakurabiat; BelÃ©m 10-2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.1 Tree"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="pt"><text>      Astrocaryum tucuma</text></form>
+</field>
+<illustration href="tucuma.jpg">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://helidapennafort.blogspot.com.br/2011_01_19_archive.html</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2012-04-05T18:23:52Z" dateModified="2019-03-26T19:01:47Z" id="a&apos;para_3e46e62d-6909-4bb8-a02a-e963f1108d30" guid="3e46e62d-6909-4bb8-a02a-e963f1108d30">
+<lexical-unit>
+<form lang="skf"><text>aʔpara</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="root"/>
+<citation>
+<form lang="skf"><text>a'para</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>aʔ.'pa.ɾa</text></form>
+</pronunciation>
+<sense id="fc48a4c6-eb7c-47b7-8190-a87933064e7f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Banana</text></gloss>
+<example>
+<form lang="skf"><text>A'para ara naat ikão te abi.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>Meu pai foi buscar banana naquela hora.</text></form>
+</translation>
+</example>
+<example source="BD. FR- C4 25.1">
+<form lang="skf"><text>Oiko aira a'para.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>M<span>eu pedaço de banana. </span></text></form>
+</translation>
+<note type="reference">
+<form lang="pt"><text><span href="silfw://localhost/link?tool%3dinterlinearEdit%26guid%3d6e613b1c-e1ab-4d36-9ee8-ff44d3fc0705%26tag%3d" class="Hyperlink">BD. FR- C4 25.1</span></text></form>
+</note>
+</example>
+<example source="ELI 10.1">
+<form lang="skf"><text>Ikopit te oa'para. </text></form>
+<translation type="Free translation">
+<form lang="pt"><text>Comeram minha banana.</text></form>
+</translation>
+<note type="reference">
+<form lang="skf"><text><span href="silfw://localhost/link?tool%3dinterlinearEdit%26guid%3d0d06d91e-3162-4aef-8325-336d9288ab2b%26tag%3d" class="Hyperlink">ELI 10.1</span></text></form>
+</note>
+</example>
+<example source="ELI 184.1">
+<form lang="skf"><text>A'para pããt õt.</text></form>
+<translation type="Free translation">
+<form lang="en"><text><span lang="pt">I like banana.</span></text></form>
+<form lang="pt"><text>E<span>u gosto de banana. </span></text></form>
+</translation>
+<note type="reference">
+<form lang="skf"><text><span href="silfw://localhost/link?tool%3dinterlinearEdit%26guid%3d0d06d91e-3162-4aef-8325-336d9288ab2b%26tag%3d" class="Hyperlink">ELI 184.1</span></text></form>
+</note>
+</example>
+<example source="ELI 4.1">
+<form lang="skf"><text>Koa oiko aira a'para kat.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>P<span>apagaio comeu pedaço da minha banana.</span></text></form>
+</translation>
+<note type="reference">
+<form lang="skf"><text><span href="silfw://localhost/link?tool%3dinterlinearEdit%26guid%3d0d06d91e-3162-4aef-8325-336d9288ab2b%26tag%3d" class="Hyperlink">ELI 4.1</span></text></form>
+</note>
+</example>
+<example source="ELI 5.1">
+<form lang="skf"><text>Te oiko aira a'para. </text></form>
+<translation type="Free translation">
+<form lang="pt"><text>C<span>adê o pedaço da minha banana.</span></text></form>
+</translation>
+<note type="reference">
+<form lang="skf"><text><span href="silfw://localhost/link?tool%3dinterlinearEdit%26guid%3d0d06d91e-3162-4aef-8325-336d9288ab2b%26tag%3d" class="Hyperlink">ELI 5.1</span></text></form>
+</note>
+</example>
+<example source="ELI 6.1">
+<form lang="skf"><text>A'para kat koa oiko aira.</text></form>
+<translation type="Free translation">
+<form lang="en"><text><span lang="pt">The parrot ate a piece of my banana.</span></text></form>
+<form lang="pt"><text>O<span> papagaio comeu um pedaço da minha banana.  </span></text></form>
+</translation>
+<note type="reference">
+<form lang="skf"><text><span href="silfw://localhost/link?tool%3dinterlinearEdit%26guid%3d0d06d91e-3162-4aef-8325-336d9288ab2b%26tag%3d" class="Hyperlink">ELI 6.1</span></text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="pt"><text>Fruta da Família Musaceae</text></form>
+</field>
+<illustration href="Cacho de banana.jpg">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://www.panoramio.com/photo_explorer#view=photo&amp;position=961&amp;with_photo_id=9175820&amp;order=date_desc&amp;user=840142</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T02:21:54Z" id="a&apos;para kuptit pot_4157371c-58d4-425c-b35c-8877dc0adcac" guid="4157371c-58d4-425c-b35c-8877dc0adcac">
+<lexical-unit>
+<form lang="skf"><text>aʔpara kɨptit pot</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>a'para kuptit pot</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>aʔ.'pa.ɾa kɨp.'tit 'pot</text></form>
+</pronunciation>
+<sense id="44e888c4-a278-4cd2-bb96-2a83cad7b3b2">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Banana do mato, banana Selvagem</text></gloss>
+<example source="Informante: Manuel Sakurabiat; 10/2005">
+<form lang="skf"><text>a'para kuptit pot perek sĩit te ikuba poot. No emo te i'a satep. Tẽet apara nengat, no emo te i'a. Kearõka te sataat, atoba sĩĩt te i'a. Sekobaka sekoa seesuguka te ikit sĩĩt.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>A árvore é fina e comprida quando está velha. A fruta é diferente (das outras bananeiras) só a folha que é parecido banana, a fruta é diferente. O cacho é para cima, a fruta é redondinha e quando está amadurecendo a semente vai caindo.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informante: Manuel Sakurabiat; 10/2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<note>
+<form lang="en"><text>a'para kup tip pot 'banana do mato'; a'para 'banana'; tip 'mato'</text></form>
+</note>
+<field type="scientific-name">
+<form lang="pt"><text>  Bromelia antiacantha. </text></form>
+</field>
+<illustration href="banana-domato - Cópia.jpg">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://casa.abril.com.br/materia/flores-exoticas#11</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2012-02-14T21:20:59Z" dateModified="2019-04-01T20:07:01Z" id="a&apos;para neet_4d5f2b84-3445-4ec1-afcd-cfc50a2f551a" guid="4d5f2b84-3445-4ec1-afcd-cfc50a2f551a">
+<lexical-unit>
+<form lang="skf"><text>aʔpara nẽẽt</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>a'para neet</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>aʔ.'pa.ɾa nẽẽt̚</text></form>
+</pronunciation>
+<sense id="4a16f76e-a97f-42d7-8f94-c90da9bcf9b0">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>broto de banana</text></gloss>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.5 Parts of a plant"/>
+<note type="source">
+<form lang="pt"><text>Pedro dialeto siwkweriat,1996.  (verificar se é necessário está entrada)</text></form>
+</note>
+<illustration href="broto de banana.jpg">
+<label>
+<form lang="pt"><text>fonte da imagem: http://www.flordebananeira.com.br/p/flor-de-bananeira.html</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-04-01T20:06:35Z" id="a&apos;para paak_e05a976e-72cc-462d-8347-ccc79a64f06d" guid="e05a976e-72cc-462d-8347-ccc79a64f06d">
+<lexical-unit>
+<form lang="skf"><text>aʔpara paak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>a'para paak</text></form>
+</citation>
+<field type="import-residue">
+<form lang="skf"><text>\mr n, adj</text></form>
+</field>
+<pronunciation>
+<form lang="skf"><text>aʔ.'pa.ɾa pa:k</text></form>
+</pronunciation>
+<sense id="24453445-a063-463a-ac65-fa5147bba425">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Banana branca, banana maçã</text></gloss>
+<example source="Informante: Manoel Sakurabiat; 10/2005">
+<form lang="skf"><text>A'para paak kaap sete te kise itoroot nenoat. Pia sĩĩtkaat ipaak te itoop.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>A Banana branca não é grande. Ela é curtinha e tem a polpa bem branca.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informante: Manoel Sakurabiat; 10/2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="pt"><text>Musa paradisiaca L.</text></form>
+</field>
+<illustration href="banana-maca.png">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://www.informacaonutricional.blog.br/banana-maca-tabela-valor/</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T19:39:54Z" id="a&apos;para perek_f151564f-0bde-4afe-9bd6-abe22d628271" guid="f151564f-0bde-4afe-9bd6-abe22d628271">
+<lexical-unit>
+<form lang="skf"><text>aʔpara perek</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>a'para perek</text></form>
+</citation>
+<field type="import-residue">
+<form lang="skf"><text>\mr n, adj</text></form>
+</field>
+<pronunciation>
+<form lang="skf"><text>aʔ.'paɾa pɛ.'ɾɛk</text></form>
+</pronunciation>
+<sense id="3e6d00f2-0a00-4a5e-9fdb-5f8b5f76df15">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Banana da terra, banana comprida</text></gloss>
+<example source="Informante: Manoel Sakurabiat; 10/2005">
+<form lang="skf"><text>A'para perek toroot ikũũp toop saro te isoap.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>Banana comprida é grande, a polpa é doce e amarelada.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informante: Manoel Sakurabiat; 10/2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="en"><text>   Musa paradisiaca L.</text></form>
+</field>
+<illustration href="banana-comprida.jpg">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://pt.wikipedia.org/wiki/Musa_%C3%97_paradisiaca#mediaviewer/Ficheiro:Plantains.jpg</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-26T19:47:44Z" id="aay_8dda59ba-75f9-450c-a3e5-5be54d8d3e69" guid="8dda59ba-75f9-450c-a3e5-5be54d8d3e69">
+<lexical-unit>
+<form lang="skf"><text>aaj</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>aay</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>'a:j</text></form>
+</pronunciation>
+<sense id="66739d83-c39a-4ed2-96fe-862b56f5d09c">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Cajá, taperebá</text></gloss>
+<example source="Informante: Manuel Sakyrabiar; 10/2005">
+<form lang="skf"><text>Aay kuba itoroot sete, sape pitik te ipe. Seekobaka sekoa te i'a seesaroka. Itoroot sĩĩt te ikit, ikũũpna ipekãyna kaat.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>A árvore de cajá é grossa, a casca dela é grossa. Quando a fruta amadurece fica amarelada. A semente é um pouco grande, pode ser doce ou azeda.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informante: Manuel Sakyrabiar; 10/2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.1 Tree"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="pt"><text>  Spondias mombin L.</text></form>
+</field>
+<note type="source">
+<form lang="pt"><text>revisado</text></form>
+</note>
+<illustration href="Spondias_mombin_MS4005.JPG">
+<label>
+<form lang="pt"><text>Disponível em: http://pt.wikipedia.org/wiki/Caj%C3%A1#mediaviewer/Ficheiro:Spondias_mombin_MS4005.JPG</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T02:23:14Z" id="aay aso_4f91c053-1eec-45c8-8156-715682387700" guid="4f91c053-1eec-45c8-8156-715682387700">
+<lexical-unit>
+<form lang="skf"><text>aaj aso</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>aay aso</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>a:j a.'tsu</text></form>
+</pronunciation>
+<sense id="f2205ae5-632a-442f-b924-2cf282036a12">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Cajá manga</text></gloss>
+<example source="Informante: Manuel Sakyrabiar; 10/2005">
+<form lang="skf"><text>Aay aso tap pot emo ikuba pia sĩĩt kaat eroet kaat kuptit pot kaat i'aari.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>A árvore de cajá da roça é baixinha, mas ela (a fruta) é maior do que as frutas do mato (cajá da floresta).</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informante: Manuel Sakyrabiar; 10/2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.1 Tree"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<note>
+<form lang="en"><text>eroet 'maior do que'</text></form>
+</note>
+<field type="scientific-name">
+<form lang="pt"><text>   Spondias dulcis Forst</text></form>
+</field>
+<illustration href="Cajamanga1.jpg">
+<label>
+<form lang="pt"><text><span lang="en">Fonte da imagem: http://edmelander.blogspot.com.br/2009/08/umbu-caja-e-caja-manga-de-onde-vieram.html</span></text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2014-07-16T16:11:01Z" id="abape_22dbabbd-a71f-4c6a-a4a9-2b3ac3ab0662" guid="22dbabbd-a71f-4c6a-a4a9-2b3ac3ab0662">
+<lexical-unit>
+<form lang="skf"><text>abape</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>abape</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>a.ba.'pɛ </text></form>
+</pronunciation>
+<pronunciation>
+</pronunciation>
+<sense id="1eb9a3c8-4c33-48fa-8ad3-51318777617e">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Barata do mato</text></gloss>
+<example source="Informante: Manoel Sakurabiat, 10/2005">
+<form lang="skf"><text>abape kuptit pot ebõ piro te ekpibõ sete tẽep te karap sete itoroot na isĩitna anik sĩit piro na kaot.</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>A barata vive na mata, mas também tem dentro de casa. Tem vários tipos diferentes dela. Tem grande e pequena. Algumas tem lombriga.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informante: Manoel Sakurabiat, 10/2005</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.6 Animal"/>
+<trait name ="semantic-domain-ddp4" value="1.6.1.7 Insect"/>
+<field type="scientific-name">
+<form lang="pt"><text>Periplaneta americana</text></form>
+</field>
+<illustration href="barata_.jpg">
+<label>
+<form lang="pt"><text>Fonte: http://pt.wikipedia.org/wiki/Barata#mediaviewer/Ficheiro:Cockroachcloseup.jpg</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2012-04-10T19:21:39Z" dateModified="2014-07-16T16:31:37Z" id="aĩkwa_363bd6ec-b5e7-4090-8f31-98b606705f32" guid="363bd6ec-b5e7-4090-8f31-98b606705f32">
+<lexical-unit>
+<form lang="skf"><text>aĩkʷa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>aĩkwa</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>aĩ.'kʷa</text></form>
+</pronunciation>
+<sense id="e0310b20-dac7-4a10-b53f-c7cd4b2b4c1a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>pium</text></gloss>
+<trait name ="semantic-domain-ddp4" value="1.6 Animal"/>
+<trait name ="semantic-domain-ddp4" value="1.6.1.7 Insect"/>
+<field type="scientific-name">
+<form lang="pt"><text>Simulium spp</text></form>
+</field>
+<note type="source">
+<form lang="pt"><text>lista de plavras do proto tupi. Manoel Sakurabiat,2003.</text></form>
+</note>
+<illustration href="borrachudo_2.1.jpg">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://dedetizacaodepragas.com/dedetizacao-de-insetos/simulium-pertinax-mosquito-borrachudo/</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2012-02-04T09:25:34Z" dateModified="2019-03-28T02:23:31Z" id="aĩpe_bb7175a6-5951-48fc-8339-7cd757b40d5a" guid="bb7175a6-5951-48fc-8339-7cd757b40d5a">
+<lexical-unit>
+<form lang="skf"><text>aĩpe</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>aĩpe</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>aĩ.'pɛ</text></form>
+</pronunciation>
+<sense id="4ab30521-e27d-4766-8751-d7933a1f89aa">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Angico</text></gloss>
+<example>
+<form lang="skf"><text>aĩ<span lang="en">pe ipẽt te ikuba isãkã obaat. Tapoo 'a nengat te i'a teba te ikit kuy kwirik esẽp sete seeakat.</span></text></form>
+<translation type="Free translation">
+<form lang="pt"><text>Angico é uma árvore dura com muitos galhos. O fruto parece ingá, as sementes são bem 'chatinhas' e é anual dá de ano a ano.</text></form>
+</translation>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.1 Tree"/>
+<trait name ="semantic-domain-ddp4" value="1 Universe, creation"/>
+<field type="scientific-name">
+<form lang="pt"><text>Angico é a designação comum a várias árvores dos gêneros Piptadenia, Parapiptadenia e Anadenanthera da sub-família Mimosoideae</text></form>
+</field>
+<note type="source">
+<form lang="pt"><text>Rosalina Guaratira</text></form>
+</note>
+<illustration href="Angico 2 - Cópia.JPG">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://ecorsb.blogspot.com.br/2011/11/angico-parapiptadenia-rigida.html</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:51Z" dateModified="2019-03-28T02:23:39Z" id="ãkã_e304b285-db4f-4e49-90c9-b194ab3b008e" guid="e304b285-db4f-4e49-90c9-b194ab3b008e">
+<lexical-unit>
+<form lang="skf"><text>ãkã</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>ãkã</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>ã'.kã</text></form>
+</pronunciation>
+<sense id="a011361c-782f-4f95-8d27-b9040d625f95">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>Branch</text></gloss>
+<gloss lang="pt"><text>Galho</text></gloss>
+<example source="Arikapoa text 049">
+<form lang="skf"><text>kupkuba ãkã</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>'galho da árvore'.</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Arikapoa text 049</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.5 Parts of a plant"/>
+<note type="source">
+<form lang="pt"><text>revisado</text></form>
+</note>
+<illustration href="galho.jpg">
+<label>
+<form lang="skf"><text>Fonte da imagem: http://oglobo.globo.com/rio/ancelmo/posts/2013/05/30/o-pouso-do-penoso-498464.asp</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2014-07-16T16:40:13Z" id="ãkubare2_ace579b5-2ca1-44ec-82c5-29a913910408" guid="ace579b5-2ca1-44ec-82c5-29a913910408" order="2">
+<lexical-unit>
+<form lang="skf"><text>ãkɨbare</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="skf"><text>ãkubare</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>ãkɨ'barɛ</text></form>
+</pronunciation>
+<sense id="65a41580-4522-47d7-bc64-844cde4bb527">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>Great cricket</text></gloss>
+<gloss lang="pt"><text>Grilo</text></gloss>
+<definition>
+<form lang="pt"><text>que dar em plantação de milho</text></form>
+</definition>
+<example source="Informante: Olimpio Saquirabiat; caderno p.2">
+<note type="reference">
+<form lang="en"><text>Informante: Olimpio Saquirabiat; caderno p.2</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.6 Animal"/>
+<trait name ="semantic-domain-ddp4" value="1.6.1.7 Insect"/>
+<note>
+<form lang="en"><text>dÃ¡ no verÃ£o; que corta milho novo</text></form>
+</note>
+<field type="scientific-name">
+<form lang="pt"><text>Gryllus assimilis</text></form>
+</field>
+<note type="source">
+<form lang="pt"><text>revisado</text></form>
+</note>
+<illustration href="grilo_.jpg">
+<label>
+<form lang="pt"><text>Fonte da imagem: http://www.culturamix.com/animais/insetos/lutas-de-grilos-na-china</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2012-02-14T21:23:39Z" dateModified="2019-03-28T02:23:49Z" id="akwa ma_60013e0a-b91c-48d7-a827-b3ae6c51a5e2" guid="60013e0a-b91c-48d7-a827-b3ae6c51a5e2">
+<lexical-unit>
+<form lang="skf"><text>akʷa mã</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>akwa ma</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>a.'kʷa mã</text></form>
+</pronunciation>
+<sense id="d011030f-9574-48a3-9c01-2cefd933b146">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Cará (espécie de cará indígena que dá batata bem grande)</text></gloss>
+<definition>
+<form lang="pt"><text>Tipo de cará que dá batata bem grande.</text></form>
+</definition>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<note type="source">
+<form lang="pt"><text>Pedro dialeto siwkweriat,1996.</text></form>
+</note>
+<illustration href="cará - Cópia.jpg">
+<label>
+<form lang="pt"><text>essa imagem é de inhame; </text></form>
+<form lang="skf"><text>Fonte da imagem: http://pt.wikipedia.org/wiki/Car%C3%A1#mediaviewer/Ficheiro:Iikozen_cara.jpg</text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T02:23:57Z" id="akwa paak_49bd90bc-38c5-4e60-8876-86680c9bc928" guid="49bd90bc-38c5-4e60-8876-86680c9bc928">
+<lexical-unit>
+<form lang="skf"><text>akʷa paak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>akwa paak</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>a.'kʷa pa:k</text></form>
+</pronunciation>
+<sense id="bf9d9568-e997-4ed8-878a-b43860b6a7ee">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Cará branco</text></gloss>
+<example source="Informantes:Manoel Ferreira Sakurabiara; caderno1-6">
+<note type="reference">
+<form lang="en"><text>Informantes:Manoel Ferreira Sakurabiara; caderno1-6</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="pt"><text> Dioscorea Alata</text></form>
+</field>
+<illustration href="cara-branco.jpg">
+<label>
+<form lang="pt"><text><span lang="en">Fonte da imagem: http://minhavidaeumadieta.com.br/propriedades-do-inhame/</span></text></form>
+</label>
+</illustration></sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T02:24:07Z" id="akwa perek_da2695db-c51a-4e57-8163-c5aaa523d17b" guid="da2695db-c51a-4e57-8163-c5aaa523d17b">
+<lexical-unit>
+<form lang="skf"><text>akʷa perek</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="skf"><text>akwa perek</text></form>
+</citation>
+<pronunciation>
+<form lang="skf"><text>a.'kʷa pe.'rek</text></form>
+</pronunciation>
+<sense id="e46cecaa-50c9-45f5-8437-0d693e997398">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="pt"><text>Cará comprido (espécie)</text></gloss>
+<example source="Informantes: Manoel Ferreira Sakurabiara; caderno1-6">
+<form lang="skf"><text>Akwa kup perek piora</text></form>
+<translation type="Free translation">
+<form lang="pt"><text>Cavar a cova do cará de pé comprido</text></form>
+</translation>
+<note type="reference">
+<form lang="en"><text>Informantes: Manoel Ferreira Sakurabiara; caderno1-6</text></form>
+</note>
+</example>
+<trait name ="semantic-domain-ddp4" value="1.5 Plant"/>
+<trait name ="semantic-domain-ddp4" value="1.5.8 Frutas"/>
+<field type="scientific-name">
+<form lang="pt"><text> Dioscorea Alata</text></form>
+</field>
+</sense>
+</entry>
+<entry dateCreated="2011-09-26T18:45:46Z" dateModified="2019-03-28T02:24:14Z" id="akwa puuk_bbba7cf8-8fdd-4737-8e98-5310719b06c0" guid="bbba7cf8-8fdd-4737-8e98-5310719b06c0">
+</lift>
